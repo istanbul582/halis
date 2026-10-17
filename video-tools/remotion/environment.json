@@ -1,0 +1,14 @@
+{
+  "name": "Remotion proof environment",
+  "remotion": "4.0.536",
+  "react": "19.3.1",
+  "node": "24.19.0",
+  "npm": "11.9.0",
+  "chromium": "154.0.8037.57",
+  "blender": "4.3.2",
+  "reference": "User-selected Mavi/denim video. Style only; no reference pixels or sound used.",
+  "skills_repository": "https://github.com/remotion-dev/skills",
+  "skills_commit": "1441a11e95db35443bd76bb318386c0d3ca00053",
+  "license": "https://github.com/remotion-dev/remotion/blob/main/LICENSE.md",
+  "use": "Evaluation prototype. No third-party commercial plugins purchased."
+}

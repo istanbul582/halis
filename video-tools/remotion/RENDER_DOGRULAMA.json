@@ -1,0 +1,18 @@
+{
+  "renderer": "Remotion4.0.536 / Chromium154",
+  "duration_seconds": 17,
+  "resolution": [
+    1080,
+    1920
+  ],
+  "fps": 30,
+  "frames": 510,
+  "full_decode": "passed",
+  "audio_lufs": -16.35,
+  "true_peak_dbtp": -5.3,
+  "bytes": 10176438,
+  "sha256": "1cfad27b3e1e0ffe8a5a46885468825aa63a8720402fa84bf3c1fdb9532e96db",
+  "source_voice_speed_changed": false,
+  "reference": "Mavi/denim - user selected",
+  "reference_picture_or_sound_used": false
+}

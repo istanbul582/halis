@@ -1,5 +1,12 @@
 # GUMA video teslimi
 
+## Remotion — Kot/Mavi referansına göre kısa stil denemesi
+
+- [17 saniyelik fotoğraf ağırlıklı denemeyi indir](https://github.com/istanbul582/halis/raw/refs/heads/main/video-teslim/GUMA_Remotion_Mavi_17s.mp4).
+- [Kurulan Remotion projesi ve kurulum bilgileri](../video-tools/remotion/README.md).
+
+Bu kısa deneme, kullanıcı tarafından seçilen Kot/Mavi referansına göre yeni üretim sistemini ve görsel yaklaşımı değerlendirmek için hazırlanmıştır. Seslendirmedeki ilk tam cümle grubu 17 saniyede tamamlanır.
+
 ## Yeni hareketli kurgu — V3
 
 - [Tam videoyu indir — 1080×1920 MP4](https://github.com/istanbul582/halis/raw/refs/heads/main/video-teslim/GUMA_video_v3.mp4): 2 dakika 44,2 saniye, 30 fps, Türkçe altyazılı.

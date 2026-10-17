@@ -1,0 +1,20 @@
+{
+  "purpose": "17-second visual-direction pilot using Remotion, based on user-selected photo-led Mavi reference.",
+  "information_source": "https://www.youtube.com/shorts/nnUXsnz3Wi0",
+  "claims": {
+    "50000": "Approximate announced starting budget plan, not verified actual total spending.",
+    "130000": "Founder-reported previous follower count, not verified current GUMA followers."
+  },
+  "stock_sources": [
+    "https://www.pexels.com/video/7677808/",
+    "https://www.pexels.com/video/15887137/",
+    "https://www.pexels.com/video/7806870/"
+  ],
+  "stock_license_status": "User-provided Pexels stock; individual license records not independently verified.",
+  "original_reference_pixels_audio_used": false,
+  "source_guma_video_pixels_audio_used": false,
+  "narration": "User-supplied ElevenLabs narration, first17 seconds; complete sentence ends16.68sec; speed unchanged.",
+  "software": "Remotion4.0.536; officialskills1441a11e95db35443bd76bb318386c0d3ca00053; see LICENSE conditions.",
+  "fonts": "Manrope, Barlow Condensed, DM Serif Display Italic; GoogleFonts SIL OFL.",
+  "no_paid_plugin_or_service_used": true
+}
