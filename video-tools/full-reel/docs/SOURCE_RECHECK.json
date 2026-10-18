@@ -1,0 +1,25 @@
+{
+  "checked_at_utc": "2026-10-17T21:17:06.163625+00:00",
+  "results": [
+    {
+      "key": "company",
+      "url": "https://gumastore.com/pages/kullanim-sartlari",
+      "status": 200,
+      "sha256": "bc73eb0bf82f6679ee00439ee564e7817350fab142d190b1547e6255870e6036",
+      "phrases_present": {
+        "bünyesinde bulunduğu": true,
+        "Saloni": true
+      }
+    },
+    {
+      "key": "article",
+      "url": "https://www.yildirimgazetesi.com/inegollu-mobilyaci-gencler-inanilmazi-basardi",
+      "status": 200,
+      "sha256": "270c7fa9833b86f46d1cf753f51f4ac42d4835f3dc6d48eb9cd559e406f0f001",
+      "phrases_present": {
+        "Dayım Haluk": true,
+        "Yönetim Kurulu": true
+      }
+    }
+  ]
+}

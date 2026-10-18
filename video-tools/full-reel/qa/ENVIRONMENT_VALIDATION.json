@@ -1,0 +1,18 @@
+{
+  "checkout_setup_executed": true,
+  "isolated_venv": "tools/.venv (not distributed)",
+  "imports": {
+    "PyAV": "19.0.1",
+    "Pillow": "13.0.0",
+    "NumPy": "2.3.5",
+    "SciPy": "1.17.0"
+  },
+  "pip_check": "passed",
+  "renderer_cli_help": "passed",
+  "audio_rebuild": "byte-identical to existing full-length mix; see audio/REBUILD_VERIFICATION.json",
+  "fresh_machine_restore_tested": false,
+  "environment_draft_saved": true,
+  "environment_requires_user_publish": true,
+  "no_paid_api_needed": true,
+  "gpu_needed": false
+}

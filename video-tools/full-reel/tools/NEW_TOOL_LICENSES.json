@@ -1,0 +1,34 @@
+[
+  {
+    "name": "PyAV",
+    "license": "BSD-3-Clause",
+    "official_license_url": "https://raw.githubusercontent.com/PyAV-Org/PyAV/v19.0.1/LICENSE.txt",
+    "sha256": "76af0461ffb92e19f1c14449e95557d83a2dfaa1baf202d49e5f1d8746c0da19",
+    "installed": true,
+    "permission_note": "Software license only; does not grant rights to third-party videos/fonts/music"
+  },
+  {
+    "name": "Pillow",
+    "license": "MIT-CMU and HPND",
+    "official_license_url": "https://raw.githubusercontent.com/python-pillow/Pillow/13.0.0/LICENSE",
+    "sha256": "15181e7363dca9aed78b79bebebc7fde7f1814b8bd311ea3b87ae8ccadfc185b",
+    "installed": true,
+    "permission_note": "Software license only; does not grant rights to third-party videos/fonts/music"
+  },
+  {
+    "name": "NumPy",
+    "license": "BSD-3-Clause",
+    "official_license_url": "https://raw.githubusercontent.com/numpy/numpy/v2.3.5/LICENSE.txt",
+    "sha256": "1be1df33863f97a7bc1c4d67980bd6c69c9a6fef0a5ee76e6ad6cb91e56e8491",
+    "installed": true,
+    "permission_note": "Software license only; does not grant rights to third-party videos/fonts/music"
+  },
+  {
+    "name": "SciPy",
+    "license": "BSD-3-Clause",
+    "official_license_url": "https://raw.githubusercontent.com/scipy/scipy/v1.17.0/LICENSE.txt",
+    "sha256": "221e59f5e910fd7f94e44f0dac77436a11338c285c6346232e4a850a50da0e94",
+    "installed": true,
+    "permission_note": "Software license only; does not grant rights to third-party videos/fonts/music"
+  }
+]

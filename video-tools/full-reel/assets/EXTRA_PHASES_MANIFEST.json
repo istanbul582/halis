@@ -1,0 +1,98 @@
+[
+  {
+    "name": "content_calendar_mid",
+    "id": "7679835",
+    "start": 8.0,
+    "length": 5.0,
+    "crop": [
+      1214,
+      2160,
+      1050,
+      0
+    ],
+    "role": "Genel iş / içerik planlama – orta faz",
+    "output_path": "clips/content_calendar_mid.mp4",
+    "source_url": "https://www.pexels.com/video/7679835/",
+    "credit": "Temsili stok · pexels.com/video/7679835/",
+    "size": [
+      720,
+      1280
+    ],
+    "fps": 30,
+    "source_start": 8.0,
+    "license_status": "Kullanıcının yüklediği/Pexels olarak belirttiği stok; tekil lisans bağımsız doğrulanmadı.",
+    "source_filename": "7679835-uhd_4096_2160_25fps.mp4"
+  },
+  {
+    "name": "content_calendar_late",
+    "id": "7679835",
+    "start": 15.0,
+    "length": 5.0,
+    "crop": [
+      1214,
+      2160,
+      900,
+      0
+    ],
+    "role": "Genel iş / içerik planlama – son faz",
+    "output_path": "clips/content_calendar_late.mp4",
+    "source_url": "https://www.pexels.com/video/7679835/",
+    "credit": "Temsili stok · pexels.com/video/7679835/",
+    "size": [
+      720,
+      1280
+    ],
+    "fps": 30,
+    "source_start": 15.0,
+    "license_status": "Kullanıcının yüklediği/Pexels olarak belirttiği stok; tekil lisans bağımsız doğrulanmadı.",
+    "source_filename": "7679835-uhd_4096_2160_25fps.mp4"
+  },
+  {
+    "name": "workshop_hands_early",
+    "id": "6790438",
+    "start": 0.5,
+    "length": 5.0,
+    "crop": [
+      1100,
+      1956,
+      570,
+      1700
+    ],
+    "role": "Genel atölye çalışması – erken faz",
+    "output_path": "clips/workshop_hands_early.mp4",
+    "source_url": "https://www.pexels.com/video/6790438/",
+    "credit": "Temsili stok · pexels.com/video/6790438/",
+    "size": [
+      720,
+      1280
+    ],
+    "fps": 30,
+    "source_start": 0.5,
+    "license_status": "Kullanıcının yüklediği/Pexels olarak belirttiği stok; tekil lisans bağımsız doğrulanmadı.",
+    "source_filename": "6790438-uhd_2160_3840_25fps.mp4"
+  },
+  {
+    "name": "workshop_hands_late",
+    "id": "6790438",
+    "start": 14.0,
+    "length": 5.0,
+    "crop": [
+      1100,
+      1956,
+      700,
+      1700
+    ],
+    "role": "Genel atölye çalışması – son faz",
+    "output_path": "clips/workshop_hands_late.mp4",
+    "source_url": "https://www.pexels.com/video/6790438/",
+    "credit": "Temsili stok · pexels.com/video/6790438/",
+    "size": [
+      720,
+      1280
+    ],
+    "fps": 30,
+    "source_start": 14.0,
+    "license_status": "Kullanıcının yüklediği/Pexels olarak belirttiği stok; tekil lisans bağımsız doğrulanmadı.",
+    "source_filename": "6790438-uhd_2160_3840_25fps.mp4"
+  }
+]

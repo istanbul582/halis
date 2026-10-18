@@ -1,0 +1,44 @@
+{
+  "python": "3.12.14",
+  "installed": {
+    "av": "19.0.1",
+    "Pillow": "13.0.0",
+    "numpy": "2.3.5",
+    "scipy": "1.17.0"
+  },
+  "checks": [
+    {
+      "command": [
+        "/workspace/guma-video/v6/tools/.venv/bin/python",
+        "-m",
+        "pip",
+        "check"
+      ],
+      "returncode": 0,
+      "stdout": "No broken requirements found.\n",
+      "stderr": "WARNING: The directory '/home/agent/.cache/pip' or its parent directory is not owned or is not writable by the current user. The cache has been disabled. Check the permissions and owner of that directory. If executing pip with sudo, you should use sudo's -H flag.\n"
+    },
+    {
+      "command": [
+        "/workspace/guma-video/v6/tools/.venv/bin/python",
+        "/workspace/guma-video/v6/tools/check_full_narration.py",
+        "--help"
+      ],
+      "returncode": 0,
+      "stdout": "usage: check_full_narration.py [-h] --voice VOICE --film FILM --out OUT\n                               [--expected-offset EXPECTED_OFFSET]\n                               [--tolerance TOLERANCE]\n\nCheck that the complete supplied voice remains in a mixed film, without\ncutting. This is a signal check, not speech recognition or a legal/content\nreview. It handles background music by comparing aligned short waveform\nwindows.\n\noptions:\n  -h, --help            show this help message and exit\n  --voice VOICE\n  --film FILM\n  --out OUT\n  --expected-offset EXPECTED_OFFSET\n  --tolerance TOLERANCE\n",
+      "stderr": ""
+    },
+    {
+      "command": [
+        "/workspace/guma-video/v6/tools/.venv/bin/python",
+        "/workspace/guma-video/v6/tools/media_inventory.py",
+        "--help"
+      ],
+      "returncode": 0,
+      "stdout": "usage: media_inventory.py [-h] [--root ROOT] [--out OUT]\n\nFrame-accurate visual inventory. This tool never trims or rewrites media.\n\noptions:\n  -h, --help   show this help message and exit\n  --root ROOT\n  --out OUT\n",
+      "stderr": ""
+    }
+  ],
+  "passed": true,
+  "setup": "setup.sh executed successfully in existing local .venv; installation only, optional GUMA_V6_PIP_CACHE, no inventory triggered"
+}

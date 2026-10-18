@@ -1,0 +1,18 @@
+{
+  "cli_help_pass": true,
+  "portable_preview_output": "/tmp/guma-v6-portability/preview",
+  "portable_preview_exists": true,
+  "font_root": "film/fonts",
+  "all_fonts_local": true,
+  "manifest_absolute_output_paths_used": false,
+  "clip_resolution": "assets_root / clips / (name + .mp4)",
+  "input_voice_changed": false,
+  "narration_sha256": "00688f8d1eddfae678cbb789e3a990af247290c5929cd1080031015bb7f45bb1",
+  "future_direct_encoder_color_tags": {
+    "range": "tv",
+    "space": "bt709",
+    "transfer": "bt709",
+    "primaries": "bt709"
+  },
+  "future_direct_encoder_test_file": "render/chunk-997.mp4"
+}

@@ -1,0 +1,244 @@
+[
+  {
+    "name": "design_overhead",
+    "source_id": "5384976",
+    "source_start": 2,
+    "length": 4,
+    "crop": [
+      1050,
+      1866,
+      1720,
+      240
+    ],
+    "size": [
+      720,
+      1280
+    ],
+    "fps": 30,
+    "role": "Tasarım / çizim",
+    "source_url": "https://www.pexels.com/video/5384976/",
+    "credit": "Temsili stok · pexels.com/video/5384976/",
+    "license_status": "Kullanıcı tarafından yüklenen ve Pexels kaynaklı olduğu belirtilen stok. Tekil lisans/üretici sayfası bağımsız doğrulanmadı.",
+    "output_filename": "design_overhead.mp4"
+  },
+  {
+    "name": "design_pencil_close",
+    "source_id": "5384977",
+    "source_start": 1,
+    "length": 4,
+    "crop": [
+      1100,
+      1956,
+      1900,
+      100
+    ],
+    "size": [
+      720,
+      1280
+    ],
+    "fps": 30,
+    "role": "Çizim / numune öncesi",
+    "source_url": "https://www.pexels.com/video/5384977/",
+    "credit": "Temsili stok · pexels.com/video/5384977/",
+    "license_status": "Kullanıcı tarafından yüklenen ve Pexels kaynaklı olduğu belirtilen stok. Tekil lisans/üretici sayfası bağımsız doğrulanmadı.",
+    "output_filename": "design_pencil_close.mp4"
+  },
+  {
+    "name": "workshop_hands",
+    "source_id": "6790438",
+    "source_start": 6,
+    "length": 5,
+    "crop": [
+      1248,
+      2220,
+      500,
+      1500
+    ],
+    "size": [
+      720,
+      1280
+    ],
+    "fps": 30,
+    "role": "Üretim / ahşap işleme",
+    "source_url": "https://www.pexels.com/video/6790438/",
+    "credit": "Temsili stok · pexels.com/video/6790438/",
+    "license_status": "Kullanıcı tarafından yüklenen ve Pexels kaynaklı olduğu belirtilen stok. Tekil lisans/üretici sayfası bağımsız doğrulanmadı.",
+    "output_filename": "workshop_hands.mp4"
+  },
+  {
+    "name": "camera_phone",
+    "source_id": "7806870",
+    "source_start": 4,
+    "length": 5,
+    "crop": [
+      562,
+      1000,
+      290,
+      920
+    ],
+    "size": [
+      720,
+      1280
+    ],
+    "fps": 30,
+    "role": "Tanıtım / içerik hazırlama",
+    "source_url": "https://www.pexels.com/video/7806870/",
+    "credit": "Temsili stok · pexels.com/video/7806870/",
+    "license_status": "Kullanıcı tarafından yüklenen ve Pexels kaynaklı olduğu belirtilen stok. Tekil lisans/üretici sayfası bağımsız doğrulanmadı.",
+    "output_filename": "camera_phone.mp4"
+  },
+  {
+    "name": "content_calendar",
+    "source_id": "7679835",
+    "source_start": 3,
+    "length": 5,
+    "crop": [
+      1214,
+      2160,
+      1050,
+      0
+    ],
+    "size": [
+      720,
+      1280
+    ],
+    "fps": 30,
+    "role": "İçerik planlama",
+    "source_url": "https://www.pexels.com/video/7679835/",
+    "credit": "Temsili stok · pexels.com/video/7679835/",
+    "license_status": "Kullanıcı tarafından yüklenen ve Pexels kaynaklı olduğu belirtilen stok. Tekil lisans/üretici sayfası bağımsız doğrulanmadı.",
+    "output_filename": "content_calendar.mp4"
+  },
+  {
+    "name": "editing_desk",
+    "source_id": "12625256",
+    "source_start": 3,
+    "length": 5,
+    "crop": [
+      1170,
+      2080,
+      920,
+      1740
+    ],
+    "size": [
+      720,
+      1280
+    ],
+    "fps": 30,
+    "role": "Dağıtım / kurgu",
+    "source_url": "https://www.pexels.com/video/12625256/",
+    "credit": "Temsili stok · pexels.com/video/12625256/",
+    "license_status": "Kullanıcı tarafından yüklenen ve Pexels kaynaklı olduğu belirtilen stok. Tekil lisans/üretici sayfası bağımsız doğrulanmadı.",
+    "output_filename": "editing_desk.mp4"
+  },
+  {
+    "name": "material_blue",
+    "source_id": "12911888",
+    "source_start": 3,
+    "length": 4,
+    "crop": [
+      606,
+      1080,
+      1100,
+      0
+    ],
+    "size": [
+      720,
+      1280
+    ],
+    "fps": 30,
+    "role": "Malzeme seçimi",
+    "source_url": "https://www.pexels.com/video/12911888/",
+    "credit": "Temsili stok · pexels.com/video/12911888/",
+    "license_status": "Kullanıcı tarafından yüklenen ve Pexels kaynaklı olduğu belirtilen stok. Tekil lisans/üretici sayfası bağımsız doğrulanmadı.",
+    "output_filename": "material_blue.mp4"
+  },
+  {
+    "name": "content_calendar_mid",
+    "source_start": 8.0,
+    "length": 5.0,
+    "crop": [
+      1214,
+      2160,
+      1050,
+      0
+    ],
+    "size": [
+      720,
+      1280
+    ],
+    "fps": 30,
+    "role": "Genel iş / içerik planlama – orta faz",
+    "source_url": "https://www.pexels.com/video/7679835/",
+    "credit": "Temsili stok · pexels.com/video/7679835/",
+    "license_status": "Kullanıcının yüklediği/Pexels olarak belirttiği stok; tekil lisans bağımsız doğrulanmadı.",
+    "source_id": "7679835",
+    "output_filename": "content_calendar_mid.mp4"
+  },
+  {
+    "name": "content_calendar_late",
+    "source_start": 15.0,
+    "length": 5.0,
+    "crop": [
+      1214,
+      2160,
+      900,
+      0
+    ],
+    "size": [
+      720,
+      1280
+    ],
+    "fps": 30,
+    "role": "Genel iş / içerik planlama – son faz",
+    "source_url": "https://www.pexels.com/video/7679835/",
+    "credit": "Temsili stok · pexels.com/video/7679835/",
+    "license_status": "Kullanıcının yüklediği/Pexels olarak belirttiği stok; tekil lisans bağımsız doğrulanmadı.",
+    "source_id": "7679835",
+    "output_filename": "content_calendar_late.mp4"
+  },
+  {
+    "name": "workshop_hands_early",
+    "source_start": 0.5,
+    "length": 5.0,
+    "crop": [
+      1100,
+      1956,
+      570,
+      1700
+    ],
+    "size": [
+      720,
+      1280
+    ],
+    "fps": 30,
+    "role": "Genel atölye çalışması – erken faz",
+    "source_url": "https://www.pexels.com/video/6790438/",
+    "credit": "Temsili stok · pexels.com/video/6790438/",
+    "license_status": "Kullanıcının yüklediği/Pexels olarak belirttiği stok; tekil lisans bağımsız doğrulanmadı.",
+    "source_id": "6790438",
+    "output_filename": "workshop_hands_early.mp4"
+  },
+  {
+    "name": "workshop_hands_late",
+    "source_start": 14.0,
+    "length": 5.0,
+    "crop": [
+      1100,
+      1956,
+      700,
+      1700
+    ],
+    "size": [
+      720,
+      1280
+    ],
+    "fps": 30,
+    "role": "Genel atölye çalışması – son faz",
+    "source_url": "https://www.pexels.com/video/6790438/",
+    "credit": "Temsili stok · pexels.com/video/6790438/",
+    "license_status": "Kullanıcının yüklediği/Pexels olarak belirttiği stok; tekil lisans bağımsız doğrulanmadı.",
+    "source_id": "6790438",
+    "output_filename": "workshop_hands_late.mp4"
+  }
+]

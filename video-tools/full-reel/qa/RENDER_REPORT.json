@@ -1,0 +1,203 @@
+{
+  "timeline_seconds": 164.2,
+  "frame_count": 4926,
+  "video_size": [
+    1080,
+    1920
+  ],
+  "fps": 30,
+  "narration_master": "/workspace/guma-video/v2/audio/narration-master.wav",
+  "narration_sha256": "00688f8d1eddfae678cbb789e3a990af247290c5929cd1080031015bb7f45bb1",
+  "narration_duration_seconds": 155.167,
+  "narration_cuts": 0,
+  "narration_speed": 1,
+  "narration_original_order": true,
+  "mix": "/workspace/guma-video/v3/audio/finalmix.wav",
+  "final": "/workspace/guma-video/v6/film/output/GUMA_V6_TAM_ANLATIM_164s.mp4",
+  "file_size": 31827855,
+  "sha256": "88706f01bdbdcd6f6b3b899d9172b396660c55853418c7a20e8d4deb6426c08e",
+  "stock_windows": [
+    [
+      23.04,
+      25.23,
+      "design_overhead",
+      0
+    ],
+    [
+      25.23,
+      27.1,
+      "camera_phone",
+      0
+    ],
+    [
+      28.0,
+      30.7,
+      "content_calendar",
+      0
+    ],
+    [
+      30.7,
+      33.55,
+      "editing_desk",
+      1.0
+    ],
+    [
+      91.09,
+      92.7,
+      "workshop_hands",
+      0
+    ],
+    [
+      92.7,
+      94.3,
+      "workshop_hands",
+      2.3
+    ],
+    [
+      94.3,
+      95.9,
+      "material_blue",
+      0
+    ],
+    [
+      95.9,
+      97.45,
+      "camera_phone",
+      2.0
+    ],
+    [
+      99.41,
+      102.0,
+      "workshop_hands_late",
+      0.4
+    ],
+    [
+      102.0,
+      104.96,
+      "content_calendar_mid",
+      1.0
+    ],
+    [
+      104.96,
+      107.1,
+      "design_pencil_close",
+      0.1
+    ],
+    [
+      107.1,
+      109.0,
+      "editing_desk",
+      0
+    ],
+    [
+      110.92,
+      112.8,
+      "design_overhead",
+      2.0
+    ],
+    [
+      112.8,
+      114.3,
+      "content_calendar_late",
+      0
+    ],
+    [
+      114.3,
+      115.69,
+      "editing_desk",
+      2.0
+    ],
+    [
+      115.69,
+      118.2,
+      "content_calendar_mid",
+      1.0
+    ],
+    [
+      118.2,
+      120.0,
+      "camera_phone",
+      1.0
+    ],
+    [
+      120.0,
+      122.51,
+      "editing_desk",
+      0.5
+    ],
+    [
+      122.51,
+      124.73,
+      "workshop_hands_early",
+      2.2
+    ],
+    [
+      124.73,
+      127.02,
+      "design_pencil_close",
+      1.5
+    ],
+    [
+      127.02,
+      128.8,
+      "content_calendar_late",
+      0.3
+    ],
+    [
+      128.8,
+      130.47,
+      "editing_desk",
+      2.0
+    ],
+    [
+      140.48,
+      142.2,
+      "content_calendar_late",
+      2.0
+    ],
+    [
+      142.2,
+      144.34,
+      "editing_desk",
+      1.0
+    ],
+    [
+      144.34,
+      146.1,
+      "content_calendar_mid",
+      0.1
+    ],
+    [
+      146.1,
+      147.69,
+      "design_pencil_close",
+      2.0
+    ]
+  ],
+  "rejected_3d_sofa_included": false,
+  "source_video_frames_or_voice_included": false,
+  "renderer": "Pillow + FFmpeg, deterministic 1080x1920/30fps",
+  "original_sentence_count": 39,
+  "caption_segment_count": 80,
+  "stock_coverage_seconds": 52.32,
+  "unique_stock_ids": [
+    "5384976",
+    "5384977",
+    "6790438",
+    "7806870",
+    "7679835",
+    "12625256",
+    "12911888"
+  ],
+  "unique_proxy_count": 11,
+  "source_card_seconds": 6,
+  "follow_card_seconds": 3,
+  "source_card_includes_real_stock_ids": true,
+  "voice_v2_and_v3_identical_sha256": true,
+  "color_range": "tv",
+  "color_space": "bt709",
+  "color_transfer": "bt709",
+  "color_primaries": "bt709",
+  "color_conversion": "Actual BT.601 limited to BT.709 limited matrix conversion with scale; H.264 VUI primaries/trc completed losslessly afterward. Future renderer writes all tags with setparams before encode.",
+  "immutable_final": true
+}

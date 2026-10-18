@@ -1,0 +1,179 @@
+[
+  {
+    "name": "design_overhead",
+    "start": 1,
+    "length": 4,
+    "role": "Tasarım / çizim",
+    "source_id": "5384976",
+    "source_start": 2,
+    "crop": [
+      1050,
+      1866,
+      1720,
+      240
+    ],
+    "output_path": "clips/design_overhead.mp4",
+    "source_url": "https://www.pexels.com/video/5384976/",
+    "credit": "Temsili stok · pexels.com/video/5384976/",
+    "license_status": "Kullanıcı tarafından yüklenen ve Pexels kaynaklı olduğu belirtilen stok. Tekil lisans/üretici sayfası bağımsız doğrulanmadı.",
+    "size": [
+      720,
+      1280
+    ],
+    "fps": 30,
+    "selected_for_film": true,
+    "source_filename": "5384976-uhd_4096_2160_30fps.mp4"
+  },
+  {
+    "name": "design_pencil_close",
+    "id": "5384977",
+    "crop": [
+      1100,
+      1956,
+      1900,
+      100
+    ],
+    "start": 1,
+    "length": 4,
+    "role": "Çizim / numune öncesi",
+    "source_id": "5384977",
+    "source_start": 1,
+    "output_path": "clips/design_pencil_close.mp4",
+    "source_url": "https://www.pexels.com/video/5384977/",
+    "credit": "Temsili stok · pexels.com/video/5384977/",
+    "license_status": "Kullanıcı tarafından yüklenen ve Pexels kaynaklı olduğu belirtilen stok. Tekil lisans/üretici sayfası bağımsız doğrulanmadı.",
+    "size": [
+      720,
+      1280
+    ],
+    "fps": 30,
+    "selected_for_film": true,
+    "source_filename": "5384977-uhd_4096_2160_30fps.mp4"
+  },
+  {
+    "name": "workshop_hands",
+    "start": 0,
+    "length": 5,
+    "role": "Üretim / ahşap işleme",
+    "source_id": "6790438",
+    "source_start": 6,
+    "crop": [
+      1248,
+      2220,
+      500,
+      1500
+    ],
+    "output_path": "clips/workshop_hands.mp4",
+    "source_url": "https://www.pexels.com/video/6790438/",
+    "credit": "Temsili stok · pexels.com/video/6790438/",
+    "license_status": "Kullanıcı tarafından yüklenen ve Pexels kaynaklı olduğu belirtilen stok. Tekil lisans/üretici sayfası bağımsız doğrulanmadı.",
+    "size": [
+      720,
+      1280
+    ],
+    "fps": 30,
+    "selected_for_film": true,
+    "source_filename": "6790438-uhd_2160_3840_25fps.mp4"
+  },
+  {
+    "name": "camera_phone",
+    "start": 1,
+    "length": 5,
+    "role": "Tanıtım / içerik hazırlama",
+    "source_id": "7806870",
+    "source_start": 4,
+    "crop": [
+      562,
+      1000,
+      290,
+      920
+    ],
+    "output_path": "clips/camera_phone.mp4",
+    "source_url": "https://www.pexels.com/video/7806870/",
+    "credit": "Temsili stok · pexels.com/video/7806870/",
+    "license_status": "Kullanıcı tarafından yüklenen ve Pexels kaynaklı olduğu belirtilen stok. Tekil lisans/üretici sayfası bağımsız doğrulanmadı.",
+    "size": [
+      720,
+      1280
+    ],
+    "fps": 30,
+    "selected_for_film": true,
+    "source_filename": "7806870-hd_1080_1920_30fps.mp4"
+  },
+  {
+    "name": "content_calendar",
+    "id": "7679835",
+    "crop": [
+      1214,
+      2160,
+      1050,
+      0
+    ],
+    "start": 3,
+    "length": 5,
+    "role": "İçerik planlama",
+    "source_id": "7679835",
+    "source_start": 3,
+    "output_path": "clips/content_calendar.mp4",
+    "source_url": "https://www.pexels.com/video/7679835/",
+    "credit": "Temsili stok · pexels.com/video/7679835/",
+    "license_status": "Kullanıcı tarafından yüklenen ve Pexels kaynaklı olduğu belirtilen stok. Tekil lisans/üretici sayfası bağımsız doğrulanmadı.",
+    "size": [
+      720,
+      1280
+    ],
+    "fps": 30,
+    "selected_for_film": true,
+    "source_filename": "7679835-uhd_4096_2160_25fps.mp4"
+  },
+  {
+    "name": "editing_desk",
+    "start": 1,
+    "length": 5,
+    "role": "Dağıtım / kurgu",
+    "source_id": "12625256",
+    "source_start": 3,
+    "crop": [
+      1170,
+      2080,
+      920,
+      1740
+    ],
+    "output_path": "clips/editing_desk.mp4",
+    "source_url": "https://www.pexels.com/video/12625256/",
+    "credit": "Temsili stok · pexels.com/video/12625256/",
+    "license_status": "Kullanıcı tarafından yüklenen ve Pexels kaynaklı olduğu belirtilen stok. Tekil lisans/üretici sayfası bağımsız doğrulanmadı.",
+    "size": [
+      720,
+      1280
+    ],
+    "fps": 30,
+    "selected_for_film": true,
+    "source_filename": "12625256_2160_3840_60fps.mp4"
+  },
+  {
+    "name": "material_blue",
+    "start": 2,
+    "length": 4,
+    "role": "Malzeme seçimi",
+    "source_id": "12911888",
+    "source_start": 3,
+    "crop": [
+      606,
+      1080,
+      1100,
+      0
+    ],
+    "output_path": "clips/material_blue.mp4",
+    "source_url": "https://www.pexels.com/video/12911888/",
+    "credit": "Temsili stok · pexels.com/video/12911888/",
+    "license_status": "Kullanıcı tarafından yüklenen ve Pexels kaynaklı olduğu belirtilen stok. Tekil lisans/üretici sayfası bağımsız doğrulanmadı.",
+    "size": [
+      720,
+      1280
+    ],
+    "fps": 30,
+    "selected_for_film": true,
+    "source_filename": "12911888_1920_1080_30fps.mp4"
+  }
+]

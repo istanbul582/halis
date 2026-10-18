@@ -1,0 +1,12 @@
+.venv/
+__pycache__/
+node_modules
+input/
+inputs/
+assets/clips/
+film/render/
+film/output/
+film/preview/
+*.wav
+*.mp3
+*.mp4

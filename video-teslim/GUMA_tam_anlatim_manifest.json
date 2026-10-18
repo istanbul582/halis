@@ -1,0 +1,19 @@
+{
+  "video": {
+    "file": "GUMA_tam_anlatim_164s.mp4",
+    "bytes": 31827855,
+    "sha256": "88706f01bdbdcd6f6b3b899d9172b396660c55853418c7a20e8d4deb6426c08e"
+  },
+  "voice_windows_matched": 104,
+  "technical_checks_passed": 13,
+  "duration_seconds": 164.2,
+  "source_package": {
+    "file": "GUMA_tam_anlatim_proje.zip",
+    "bytes": 379159,
+    "sha256": "58d222be28a1495be4addb8e0f9a061a08122d9e199860cda913c49bfea7ce7c",
+    "member_count": 56,
+    "contains_raw_user_media": false
+  },
+  "cover": "GUMA_tam_anlatim_kapak.jpg",
+  "instagram_caption": "GUMA_tam_anlatim_instagram.txt"
+}

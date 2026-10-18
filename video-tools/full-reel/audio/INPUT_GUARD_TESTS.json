@@ -1,0 +1,16 @@
+[
+  {
+    "check": "missing-input",
+    "exit_code": 2,
+    "passed": true,
+    "output_not_created": true,
+    "message": "build_audio.py: error: Private narration master is missing. Supply --voice /private/narration-master.wav."
+  },
+  {
+    "check": "wrong-voice",
+    "exit_code": 2,
+    "passed": true,
+    "output_not_created": true,
+    "message": "build_audio.py: error: Wrong narration master SHA-256. The original full normalized WAV is required; no shortened/reordered/re-encoded input is accepted."
+  }
+]

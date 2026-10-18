@@ -1,0 +1,742 @@
+{
+  "reference_voice": "/workspace/guma-video/v2/audio/narration-master.wav",
+  "film": "video-teslim/GUMA_tam_anlatim_164s.mp4",
+  "reference_seconds": 155.167375,
+  "film_audio_seconds": 164.20275,
+  "method": "8kHz mono waveform correlation; every voiced 1.5 second window plus the final 1.5 seconds; expected global offset and 75ms local tolerance; no speech transcription",
+  "reference_fully_fits": true,
+  "compared_windows": 104,
+  "failed_windows": 0,
+  "minimum_correlation": 0.98091,
+  "windows": [
+    {
+      "voice_start": 0.0,
+      "rms": 0.199779,
+      "correlation": 0.99985,
+      "offset_seconds": 0.0,
+      "matched": true
+    },
+    {
+      "voice_start": 1.5,
+      "rms": 0.148803,
+      "correlation": 0.99936,
+      "offset_seconds": 0.0,
+      "matched": true
+    },
+    {
+      "voice_start": 3.0,
+      "rms": 0.17764,
+      "correlation": 0.99884,
+      "offset_seconds": 0.0,
+      "matched": true
+    },
+    {
+      "voice_start": 4.5,
+      "rms": 0.141869,
+      "correlation": 0.99777,
+      "offset_seconds": 0.0,
+      "matched": true
+    },
+    {
+      "voice_start": 6.0,
+      "rms": 0.156507,
+      "correlation": 0.99611,
+      "offset_seconds": 0.0,
+      "matched": true
+    },
+    {
+      "voice_start": 7.5,
+      "rms": 0.12179,
+      "correlation": 0.99571,
+      "offset_seconds": 0.0,
+      "matched": true
+    },
+    {
+      "voice_start": 9.0,
+      "rms": 0.141831,
+      "correlation": 0.99756,
+      "offset_seconds": 0.0,
+      "matched": true
+    },
+    {
+      "voice_start": 10.5,
+      "rms": 0.106895,
+      "correlation": 0.9961,
+      "offset_seconds": 0.0,
+      "matched": true
+    },
+    {
+      "voice_start": 12.0,
+      "rms": 0.174962,
+      "correlation": 0.9988,
+      "offset_seconds": 0.0,
+      "matched": true
+    },
+    {
+      "voice_start": 13.5,
+      "rms": 0.185897,
+      "correlation": 0.99936,
+      "offset_seconds": 0.0,
+      "matched": true
+    },
+    {
+      "voice_start": 15.0,
+      "rms": 0.124172,
+      "correlation": 0.99818,
+      "offset_seconds": 0.0,
+      "matched": true
+    },
+    {
+      "voice_start": 16.5,
+      "rms": 0.168094,
+      "correlation": 0.99759,
+      "offset_seconds": 0.0,
+      "matched": true
+    },
+    {
+      "voice_start": 18.0,
+      "rms": 0.186204,
+      "correlation": 0.99866,
+      "offset_seconds": 0.0,
+      "matched": true
+    },
+    {
+      "voice_start": 19.5,
+      "rms": 0.16748,
+      "correlation": 0.99809,
+      "offset_seconds": 0.0,
+      "matched": true
+    },
+    {
+      "voice_start": 21.0,
+      "rms": 0.134184,
+      "correlation": 0.99621,
+      "offset_seconds": 0.0,
+      "matched": true
+    },
+    {
+      "voice_start": 22.5,
+      "rms": 0.159642,
+      "correlation": 0.99523,
+      "offset_seconds": 0.0,
+      "matched": true
+    },
+    {
+      "voice_start": 24.0,
+      "rms": 0.111017,
+      "correlation": 0.99069,
+      "offset_seconds": 0.0,
+      "matched": true
+    },
+    {
+      "voice_start": 25.5,
+      "rms": 0.186508,
+      "correlation": 0.99691,
+      "offset_seconds": 0.0,
+      "matched": true
+    },
+    {
+      "voice_start": 27.0,
+      "rms": 0.106006,
+      "correlation": 0.98751,
+      "offset_seconds": 0.0,
+      "matched": true
+    },
+    {
+      "voice_start": 28.5,
+      "rms": 0.198281,
+      "correlation": 0.9985,
+      "offset_seconds": 0.0,
+      "matched": true
+    },
+    {
+      "voice_start": 30.0,
+      "rms": 0.122909,
+      "correlation": 0.99596,
+      "offset_seconds": 0.0,
+      "matched": true
+    },
+    {
+      "voice_start": 31.5,
+      "rms": 0.20642,
+      "correlation": 0.99897,
+      "offset_seconds": 0.0,
+      "matched": true
+    },
+    {
+      "voice_start": 33.0,
+      "rms": 0.159842,
+      "correlation": 0.9964,
+      "offset_seconds": 0.0,
+      "matched": true
+    },
+    {
+      "voice_start": 34.5,
+      "rms": 0.144849,
+      "correlation": 0.99607,
+      "offset_seconds": 0.0,
+      "matched": true
+    },
+    {
+      "voice_start": 36.0,
+      "rms": 0.187417,
+      "correlation": 0.9987,
+      "offset_seconds": 0.0,
+      "matched": true
+    },
+    {
+      "voice_start": 37.5,
+      "rms": 0.19393,
+      "correlation": 0.99911,
+      "offset_seconds": 0.0,
+      "matched": true
+    },
+    {
+      "voice_start": 39.0,
+      "rms": 0.141603,
+      "correlation": 0.99865,
+      "offset_seconds": 0.0,
+      "matched": true
+    },
+    {
+      "voice_start": 40.5,
+      "rms": 0.178378,
+      "correlation": 0.99934,
+      "offset_seconds": 0.0,
+      "matched": true
+    },
+    {
+      "voice_start": 42.0,
+      "rms": 0.13869,
+      "correlation": 0.99795,
+      "offset_seconds": 0.0,
+      "matched": true
+    },
+    {
+      "voice_start": 43.5,
+      "rms": 0.156973,
+      "correlation": 0.99878,
+      "offset_seconds": 0.0,
+      "matched": true
+    },
+    {
+      "voice_start": 45.0,
+      "rms": 0.219881,
+      "correlation": 0.99942,
+      "offset_seconds": 0.0,
+      "matched": true
+    },
+    {
+      "voice_start": 46.5,
+      "rms": 0.087855,
+      "correlation": 0.99493,
+      "offset_seconds": 0.0,
+      "matched": true
+    },
+    {
+      "voice_start": 48.0,
+      "rms": 0.193157,
+      "correlation": 0.99767,
+      "offset_seconds": 0.0,
+      "matched": true
+    },
+    {
+      "voice_start": 49.5,
+      "rms": 0.185067,
+      "correlation": 0.9984,
+      "offset_seconds": 0.0,
+      "matched": true
+    },
+    {
+      "voice_start": 51.0,
+      "rms": 0.125524,
+      "correlation": 0.99602,
+      "offset_seconds": 0.0,
+      "matched": true
+    },
+    {
+      "voice_start": 52.5,
+      "rms": 0.156984,
+      "correlation": 0.9967,
+      "offset_seconds": 0.0,
+      "matched": true
+    },
+    {
+      "voice_start": 54.0,
+      "rms": 0.176116,
+      "correlation": 0.99545,
+      "offset_seconds": 0.0,
+      "matched": true
+    },
+    {
+      "voice_start": 55.5,
+      "rms": 0.204964,
+      "correlation": 0.99761,
+      "offset_seconds": 0.0,
+      "matched": true
+    },
+    {
+      "voice_start": 57.0,
+      "rms": 0.183706,
+      "correlation": 0.99743,
+      "offset_seconds": 0.0,
+      "matched": true
+    },
+    {
+      "voice_start": 58.5,
+      "rms": 0.149653,
+      "correlation": 0.99277,
+      "offset_seconds": 0.0,
+      "matched": true
+    },
+    {
+      "voice_start": 60.0,
+      "rms": 0.191805,
+      "correlation": 0.9985,
+      "offset_seconds": 0.0,
+      "matched": true
+    },
+    {
+      "voice_start": 61.5,
+      "rms": 0.157825,
+      "correlation": 0.99805,
+      "offset_seconds": 0.0,
+      "matched": true
+    },
+    {
+      "voice_start": 63.0,
+      "rms": 0.121108,
+      "correlation": 0.9946,
+      "offset_seconds": 0.0,
+      "matched": true
+    },
+    {
+      "voice_start": 64.5,
+      "rms": 0.185446,
+      "correlation": 0.99877,
+      "offset_seconds": 0.0,
+      "matched": true
+    },
+    {
+      "voice_start": 66.0,
+      "rms": 0.183781,
+      "correlation": 0.99906,
+      "offset_seconds": 0.0,
+      "matched": true
+    },
+    {
+      "voice_start": 67.5,
+      "rms": 0.121605,
+      "correlation": 0.99794,
+      "offset_seconds": 0.0,
+      "matched": true
+    },
+    {
+      "voice_start": 69.0,
+      "rms": 0.171002,
+      "correlation": 0.99827,
+      "offset_seconds": 0.0,
+      "matched": true
+    },
+    {
+      "voice_start": 70.5,
+      "rms": 0.141694,
+      "correlation": 0.99731,
+      "offset_seconds": 0.0,
+      "matched": true
+    },
+    {
+      "voice_start": 72.0,
+      "rms": 0.171435,
+      "correlation": 0.99859,
+      "offset_seconds": 0.0,
+      "matched": true
+    },
+    {
+      "voice_start": 73.5,
+      "rms": 0.092611,
+      "correlation": 0.99108,
+      "offset_seconds": 0.0,
+      "matched": true
+    },
+    {
+      "voice_start": 75.0,
+      "rms": 0.190761,
+      "correlation": 0.99864,
+      "offset_seconds": 0.0,
+      "matched": true
+    },
+    {
+      "voice_start": 76.5,
+      "rms": 0.156871,
+      "correlation": 0.99873,
+      "offset_seconds": 0.0,
+      "matched": true
+    },
+    {
+      "voice_start": 78.0,
+      "rms": 0.154457,
+      "correlation": 0.99854,
+      "offset_seconds": 0.0,
+      "matched": true
+    },
+    {
+      "voice_start": 79.5,
+      "rms": 0.154694,
+      "correlation": 0.99888,
+      "offset_seconds": 0.0,
+      "matched": true
+    },
+    {
+      "voice_start": 81.0,
+      "rms": 0.143604,
+      "correlation": 0.99885,
+      "offset_seconds": 0.0,
+      "matched": true
+    },
+    {
+      "voice_start": 82.5,
+      "rms": 0.142982,
+      "correlation": 0.9979,
+      "offset_seconds": 0.0,
+      "matched": true
+    },
+    {
+      "voice_start": 84.0,
+      "rms": 0.17455,
+      "correlation": 0.99907,
+      "offset_seconds": 0.0,
+      "matched": true
+    },
+    {
+      "voice_start": 85.5,
+      "rms": 0.142108,
+      "correlation": 0.99704,
+      "offset_seconds": 0.0,
+      "matched": true
+    },
+    {
+      "voice_start": 87.0,
+      "rms": 0.158577,
+      "correlation": 0.99813,
+      "offset_seconds": 0.0,
+      "matched": true
+    },
+    {
+      "voice_start": 88.5,
+      "rms": 0.147879,
+      "correlation": 0.99772,
+      "offset_seconds": 0.0,
+      "matched": true
+    },
+    {
+      "voice_start": 90.0,
+      "rms": 0.142119,
+      "correlation": 0.99371,
+      "offset_seconds": 0.0,
+      "matched": true
+    },
+    {
+      "voice_start": 91.5,
+      "rms": 0.160003,
+      "correlation": 0.9973,
+      "offset_seconds": 0.0,
+      "matched": true
+    },
+    {
+      "voice_start": 93.0,
+      "rms": 0.169116,
+      "correlation": 0.99639,
+      "offset_seconds": 0.0,
+      "matched": true
+    },
+    {
+      "voice_start": 94.5,
+      "rms": 0.127421,
+      "correlation": 0.99324,
+      "offset_seconds": 0.0,
+      "matched": true
+    },
+    {
+      "voice_start": 96.0,
+      "rms": 0.168928,
+      "correlation": 0.99623,
+      "offset_seconds": 0.0,
+      "matched": true
+    },
+    {
+      "voice_start": 97.5,
+      "rms": 0.118249,
+      "correlation": 0.99471,
+      "offset_seconds": 0.0,
+      "matched": true
+    },
+    {
+      "voice_start": 99.0,
+      "rms": 0.152346,
+      "correlation": 0.99573,
+      "offset_seconds": 0.0,
+      "matched": true
+    },
+    {
+      "voice_start": 100.5,
+      "rms": 0.110268,
+      "correlation": 0.9947,
+      "offset_seconds": 0.0,
+      "matched": true
+    },
+    {
+      "voice_start": 102.0,
+      "rms": 0.18012,
+      "correlation": 0.99867,
+      "offset_seconds": 0.0,
+      "matched": true
+    },
+    {
+      "voice_start": 103.5,
+      "rms": 0.062584,
+      "correlation": 0.98091,
+      "offset_seconds": 0.0,
+      "matched": true
+    },
+    {
+      "voice_start": 105.0,
+      "rms": 0.180837,
+      "correlation": 0.99906,
+      "offset_seconds": 0.0,
+      "matched": true
+    },
+    {
+      "voice_start": 106.5,
+      "rms": 0.194412,
+      "correlation": 0.9992,
+      "offset_seconds": 0.0,
+      "matched": true
+    },
+    {
+      "voice_start": 108.0,
+      "rms": 0.137644,
+      "correlation": 0.99796,
+      "offset_seconds": 0.0,
+      "matched": true
+    },
+    {
+      "voice_start": 109.5,
+      "rms": 0.121988,
+      "correlation": 0.99401,
+      "offset_seconds": 0.0,
+      "matched": true
+    },
+    {
+      "voice_start": 111.0,
+      "rms": 0.188942,
+      "correlation": 0.99895,
+      "offset_seconds": 0.0,
+      "matched": true
+    },
+    {
+      "voice_start": 112.5,
+      "rms": 0.207142,
+      "correlation": 0.99915,
+      "offset_seconds": 0.0,
+      "matched": true
+    },
+    {
+      "voice_start": 114.0,
+      "rms": 0.126022,
+      "correlation": 0.99771,
+      "offset_seconds": 0.0,
+      "matched": true
+    },
+    {
+      "voice_start": 115.5,
+      "rms": 0.17481,
+      "correlation": 0.9987,
+      "offset_seconds": 0.0,
+      "matched": true
+    },
+    {
+      "voice_start": 117.0,
+      "rms": 0.140972,
+      "correlation": 0.99872,
+      "offset_seconds": 0.0,
+      "matched": true
+    },
+    {
+      "voice_start": 118.5,
+      "rms": 0.159688,
+      "correlation": 0.99886,
+      "offset_seconds": 0.0,
+      "matched": true
+    },
+    {
+      "voice_start": 120.0,
+      "rms": 0.097937,
+      "correlation": 0.99683,
+      "offset_seconds": 0.0,
+      "matched": true
+    },
+    {
+      "voice_start": 121.5,
+      "rms": 0.129062,
+      "correlation": 0.99592,
+      "offset_seconds": 0.0,
+      "matched": true
+    },
+    {
+      "voice_start": 123.0,
+      "rms": 0.123757,
+      "correlation": 0.99682,
+      "offset_seconds": 0.0,
+      "matched": true
+    },
+    {
+      "voice_start": 124.5,
+      "rms": 0.164039,
+      "correlation": 0.9972,
+      "offset_seconds": 0.0,
+      "matched": true
+    },
+    {
+      "voice_start": 126.0,
+      "rms": 0.12194,
+      "correlation": 0.99388,
+      "offset_seconds": 0.0,
+      "matched": true
+    },
+    {
+      "voice_start": 127.5,
+      "rms": 0.148906,
+      "correlation": 0.99701,
+      "offset_seconds": 0.0,
+      "matched": true
+    },
+    {
+      "voice_start": 129.0,
+      "rms": 0.174246,
+      "correlation": 0.99707,
+      "offset_seconds": 0.0,
+      "matched": true
+    },
+    {
+      "voice_start": 130.5,
+      "rms": 0.146249,
+      "correlation": 0.99235,
+      "offset_seconds": 0.0,
+      "matched": true
+    },
+    {
+      "voice_start": 132.0,
+      "rms": 0.164245,
+      "correlation": 0.9969,
+      "offset_seconds": 0.0,
+      "matched": true
+    },
+    {
+      "voice_start": 133.5,
+      "rms": 0.147039,
+      "correlation": 0.99446,
+      "offset_seconds": 0.0,
+      "matched": true
+    },
+    {
+      "voice_start": 135.0,
+      "rms": 0.153173,
+      "correlation": 0.99752,
+      "offset_seconds": 0.0,
+      "matched": true
+    },
+    {
+      "voice_start": 136.5,
+      "rms": 0.157425,
+      "correlation": 0.99776,
+      "offset_seconds": 0.0,
+      "matched": true
+    },
+    {
+      "voice_start": 138.0,
+      "rms": 0.143355,
+      "correlation": 0.99776,
+      "offset_seconds": 0.0,
+      "matched": true
+    },
+    {
+      "voice_start": 139.5,
+      "rms": 0.146387,
+      "correlation": 0.99687,
+      "offset_seconds": 0.0,
+      "matched": true
+    },
+    {
+      "voice_start": 141.0,
+      "rms": 0.205209,
+      "correlation": 0.999,
+      "offset_seconds": 0.0,
+      "matched": true
+    },
+    {
+      "voice_start": 142.5,
+      "rms": 0.153301,
+      "correlation": 0.99822,
+      "offset_seconds": 0.0,
+      "matched": true
+    },
+    {
+      "voice_start": 144.0,
+      "rms": 0.210566,
+      "correlation": 0.99877,
+      "offset_seconds": 0.0,
+      "matched": true
+    },
+    {
+      "voice_start": 145.5,
+      "rms": 0.142982,
+      "correlation": 0.99875,
+      "offset_seconds": 0.0,
+      "matched": true
+    },
+    {
+      "voice_start": 147.0,
+      "rms": 0.162081,
+      "correlation": 0.99814,
+      "offset_seconds": 0.0,
+      "matched": true
+    },
+    {
+      "voice_start": 148.5,
+      "rms": 0.157604,
+      "correlation": 0.99827,
+      "offset_seconds": 0.0,
+      "matched": true
+    },
+    {
+      "voice_start": 150.0,
+      "rms": 0.123472,
+      "correlation": 0.99791,
+      "offset_seconds": 0.0,
+      "matched": true
+    },
+    {
+      "voice_start": 151.5,
+      "rms": 0.181622,
+      "correlation": 0.99903,
+      "offset_seconds": 0.0,
+      "matched": true
+    },
+    {
+      "voice_start": 153.0,
+      "rms": 0.199237,
+      "correlation": 0.9985,
+      "offset_seconds": 0.0,
+      "matched": true
+    },
+    {
+      "voice_start": 153.667,
+      "rms": 0.200978,
+      "correlation": 0.99843,
+      "offset_seconds": 0.0,
+      "matched": true
+    }
+  ],
+  "passed": true
+}

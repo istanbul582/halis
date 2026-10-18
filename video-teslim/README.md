@@ -1,6 +1,21 @@
 # GUMA video teslimi
 
-## Yeni kurgu — 99 saniye
+## Güncel — tam anlatım, 2 dakika 44,2 saniye
+
+- [Tam videoyu indir — 1080×1920 MP4](https://github.com/istanbul582/halis/raw/refs/heads/main/video-teslim/GUMA_tam_anlatim_164s.mp4)
+- [Kapak](GUMA_tam_anlatim_kapak.jpg)
+- [Düzenlenebilir proje, kaynaklar ve lisans paketi](https://github.com/istanbul582/halis/raw/refs/heads/main/video-teslim/GUMA_tam_anlatim_proje.zip)
+- [Instagram açıklaması](GUMA_tam_anlatim_instagram.txt)
+- [Güncel üretim projesi ve kurulum](../video-tools/full-reel/README.md)
+- [Teknik ve tam ses doğrulaması](../video-tools/full-reel/qa/FINAL_VERIFICATION.json)
+
+Özgün 155,167313 saniyelik Ece seslendirmesinin tamamı aynı sıra ve hızda korunur. Beğenilen hareketli yazı dili esas alınır; koltuk canlandırması çıkarılmıştır. Tasarım, malzeme, üretim ve tanıtım anlatılırken ilgili gerçek çalışma kesitleri; şirket açıklamalarında kaynaklı alıntı ve ilişki çizimleri kullanılır. 26 stok penceresi toplam 52,32 saniyedir. Stoklar temsili olarak etiketlidir; gerçek marka tesisi, çalışanı veya ürünü diye sunulmaz. Son 6 saniye kaynaklar, son 3 saniye özgün takip kapanışıdır.
+
+Son MP4 31.827.855 bayttır. 104/104 konuşma penceresi ve kapanış sözleri özgün kayıtla eşleşti; 13 teknik kontrol geçti. Video baştan sona hatasız çözüldü.
+
+Ham ses ve ham stoklar dağıtılmaz; kaynak marka videosunun özgün görüntü/sesi ve WhatsApp örneklerinin görüntü/sesi kullanılmaz. Kaynakların kapsamı ve kullanım notları proje paketindedir. Yazılım lisansları, stok ve ses haklarının yerine geçmez.
+
+## Önceki kısa deneme — 99 saniye (güncel sürüm değildir)
 
 - [Tam videoyu indir — 1080×1920 MP4](https://github.com/istanbul582/halis/raw/refs/heads/main/video-teslim/GUMA_yeni_kurgu_99s.mp4).
 - [Yeni kapak](GUMA_yeni_kapak.jpg).

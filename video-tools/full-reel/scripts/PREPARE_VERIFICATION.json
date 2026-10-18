@@ -1,0 +1,24 @@
+{
+  "preview_only": true,
+  "clips": [
+    {
+      "filename": "design_overhead.mp4",
+      "source_id": "5384976",
+      "source_start": 2,
+      "crop": [
+        1050,
+        1866,
+        1720,
+        240
+      ],
+      "duration_seconds": 1.0,
+      "dimensions": [
+        720,
+        1280
+      ],
+      "fps": 30,
+      "sha256": "b0a00a3dd90c94ac3ac287ac9ffe5f53ec78ba0c2b01ac7bd64140a4bdab32d2"
+    }
+  ],
+  "test_scope": "One-second original-source crop/scale/fps smoke test; full production durations are in media_manifest.json."
+}

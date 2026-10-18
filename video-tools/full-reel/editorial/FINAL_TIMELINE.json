@@ -1,0 +1,311 @@
+{
+  "scenes": [
+    [
+      0,
+      6.36,
+      "budget",
+      null,
+      "AÇIKLANAN BÜTÇE PLANI"
+    ],
+    [
+      6.36,
+      17.02,
+      "audience",
+      null,
+      "ÖNCEKİ KİTLE / KURUCU BEYANI"
+    ],
+    [
+      17.02,
+      23.04,
+      "question",
+      null,
+      "BAŞLANGIÇ KOŞULLARI"
+    ],
+    [
+      23.04,
+      28,
+      "design",
+      null,
+      "TASARLAMAK / DUYURMAK"
+    ],
+    [
+      28,
+      34.01,
+      "channel",
+      null,
+      "ÖNCEDEN KURULAN KANAL"
+    ],
+    [
+      34.01,
+      43.07,
+      "production",
+      null,
+      "ÜRETİM / SATIŞ İLİŞKİSİ"
+    ],
+    [
+      43.07,
+      48.4,
+      "terms",
+      null,
+      "ŞİRKETİN KENDİ İFADESİ"
+    ],
+    [
+      48.4,
+      58.97,
+      "quote",
+      null,
+      "KURUCU AÇIKLAMASI"
+    ],
+    [
+      58.97,
+      64.11,
+      "role",
+      null,
+      "HABERDEKİ GÖREV BİLGİSİ"
+    ],
+    [
+      64.11,
+      69.39,
+      "knowledge",
+      null,
+      "AÇIKLANAN BİLGİ DESTEĞİ"
+    ],
+    [
+      69.39,
+      83.64,
+      "map",
+      null,
+      "BİLGİLERİ BİRLİKTE DÜŞÜN"
+    ],
+    [
+      83.64,
+      91.09,
+      "scope",
+      null,
+      "BİLGİNİN KAPSAMI"
+    ],
+    [
+      91.09,
+      104.96,
+      "process",
+      null,
+      "FİKİRDEN İLK MÜŞTERİYE"
+    ],
+    [
+      104.96,
+      115.69,
+      "work",
+      null,
+      "EMEK / AÇIKLANAN İMKÂNLAR"
+    ],
+    [
+      115.69,
+      134.77,
+      "questions",
+      null,
+      "KENDİ İŞİNİ KURARKEN"
+    ],
+    [
+      134.77,
+      147.69,
+      "prepare",
+      null,
+      "SONUÇ KADAR BAŞLANGIÇ"
+    ],
+    [
+      147.69,
+      155.2,
+      "final",
+      null,
+      "ŞİMDİ SORU SANA"
+    ],
+    [
+      155.2,
+      161.2,
+      "sources",
+      null,
+      "KAYNAKLAR"
+    ],
+    [
+      161.2,
+      164.2,
+      "follow",
+      null,
+      "MERAKI BİRLİKTE SÜRDÜRELİM"
+    ]
+  ],
+  "shots": [
+    [
+      23.04,
+      25.23,
+      "design_overhead",
+      0
+    ],
+    [
+      25.23,
+      27.1,
+      "camera_phone",
+      0
+    ],
+    [
+      28.0,
+      30.7,
+      "content_calendar",
+      0
+    ],
+    [
+      30.7,
+      33.55,
+      "editing_desk",
+      1.0
+    ],
+    [
+      91.09,
+      92.7,
+      "workshop_hands",
+      0
+    ],
+    [
+      92.7,
+      94.3,
+      "workshop_hands",
+      2.3
+    ],
+    [
+      94.3,
+      95.9,
+      "material_blue",
+      0
+    ],
+    [
+      95.9,
+      97.45,
+      "camera_phone",
+      2.0
+    ],
+    [
+      99.41,
+      102.0,
+      "workshop_hands_late",
+      0.4
+    ],
+    [
+      102.0,
+      104.96,
+      "content_calendar_mid",
+      1.0
+    ],
+    [
+      104.96,
+      107.1,
+      "design_pencil_close",
+      0.1
+    ],
+    [
+      107.1,
+      109.0,
+      "editing_desk",
+      0
+    ],
+    [
+      110.92,
+      112.8,
+      "design_overhead",
+      2.0
+    ],
+    [
+      112.8,
+      114.3,
+      "content_calendar_late",
+      0
+    ],
+    [
+      114.3,
+      115.69,
+      "editing_desk",
+      2.0
+    ],
+    [
+      115.69,
+      118.2,
+      "content_calendar_mid",
+      1.0
+    ],
+    [
+      118.2,
+      120.0,
+      "camera_phone",
+      1.0
+    ],
+    [
+      120.0,
+      122.51,
+      "editing_desk",
+      0.5
+    ],
+    [
+      122.51,
+      124.73,
+      "workshop_hands_early",
+      2.2
+    ],
+    [
+      124.73,
+      127.02,
+      "design_pencil_close",
+      1.5
+    ],
+    [
+      127.02,
+      128.8,
+      "content_calendar_late",
+      0.3
+    ],
+    [
+      128.8,
+      130.47,
+      "editing_desk",
+      2.0
+    ],
+    [
+      140.48,
+      142.2,
+      "content_calendar_late",
+      2.0
+    ],
+    [
+      142.2,
+      144.34,
+      "editing_desk",
+      1.0
+    ],
+    [
+      144.34,
+      146.1,
+      "content_calendar_mid",
+      0.1
+    ],
+    [
+      146.1,
+      147.69,
+      "design_pencil_close",
+      2.0
+    ]
+  ],
+  "duration_seconds": 164.2,
+  "fps": 30,
+  "total_frames": 4926,
+  "voice_cuts": 0,
+  "speed": 1.0,
+  "stock_coverage_seconds": 52.32,
+  "source_card": [
+    155.2,
+    161.2
+  ],
+  "follow_card": [
+    161.2,
+    164.2
+  ],
+  "narration_sha256": "00688f8d1eddfae678cbb789e3a990af247290c5929cd1080031015bb7f45bb1",
+  "sentence_count": 39
+}
