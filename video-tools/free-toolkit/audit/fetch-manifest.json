@@ -1,0 +1,152 @@
+[
+  {
+    "name": "three-license",
+    "url": "https://raw.githubusercontent.com/mrdoob/three.js/dev/LICENSE",
+    "status": 200,
+    "bytes": 1081,
+    "preview": "The MIT License\n\nCopyright © 2010-2026 three.js authors\n\nPermission is hereby granted, free of charge, to any person obtaining a copy\nof this software and associated documentation files (the \"Software\"), to deal\nin the Software without rest"
+  },
+  {
+    "name": "three-readme",
+    "url": "https://raw.githubusercontent.com/mrdoob/three.js/dev/README.md",
+    "status": 200,
+    "bytes": 2969,
+    "preview": "# three.js\n\n[![NPM Package][npm]][npm-url]\n[![Build Size][build-size]][build-size-url]\n[![NPM Downloads][npm-downloads]][npmtrends-url]\n[![jsDelivr Downloads][jsdelivr-downloads]][jsdelivr-url]\n[![Discord][discord]][discord-url]\n\n#### JavaS"
+  },
+  {
+    "name": "r3f-license",
+    "url": "https://raw.githubusercontent.com/pmndrs/react-three-fiber/master/LICENSE",
+    "status": 200,
+    "bytes": 1072,
+    "preview": "MIT License\n\nCopyright (c) 2019-2025 Poimandres\n\nPermission is hereby granted, free of charge, to any person obtaining a copy\nof this software and associated documentation files (the \"Software\"), to deal\nin the Software without restriction,"
+  },
+  {
+    "name": "r3f-readme",
+    "url": "https://raw.githubusercontent.com/pmndrs/react-three-fiber/master/readme.md",
+    "status": 200,
+    "bytes": 14301,
+    "preview": "<h1>@react-three/fiber</h1>\n\n[![Version](https://img.shields.io/npm/v/@react-three/fiber?style=flat&colorA=000000&colorB=000000)](https://npmjs.com/package/@react-three/fiber)\n[![Downloads](https://img.shields.io/npm/dt/@react-three/fiber.s"
+  },
+  {
+    "name": "drei-license",
+    "url": "https://raw.githubusercontent.com/pmndrs/drei/master/LICENSE",
+    "status": 200,
+    "bytes": 1069,
+    "preview": "MIT License\n\nCopyright (c) 2020 react-spring\n\nPermission is hereby granted, free of charge, to any person obtaining a copy\nof this software and associated documentation files (the \"Software\"), to deal\nin the Software without restriction, in"
+  },
+  {
+    "name": "drei-readme",
+    "url": "https://raw.githubusercontent.com/pmndrs/drei/master/README.md",
+    "status": 200,
+    "bytes": 27833,
+    "preview": "[![Storybook](https://img.shields.io/static/v1?message=Storybook&style=flat&colorA=000000&colorB=000000&label=&logo=storybook&logoColor=ffffff)](https://drei.pmnd.rs/)\n[![](https://img.shields.io/badge/chromatic-171c23.svg?style=flat&colorA"
+  },
+  {
+    "name": "motion-license",
+    "url": "https://raw.githubusercontent.com/motiondivision/motion/main/LICENSE.md",
+    "status": 200,
+    "bytes": 1100,
+    "preview": "The MIT License (MIT)\n\nCopyright (c) 2024 [Motion](https://motion.dev) B.V.\n\nPermission is hereby granted, free of charge, to any person obtaining a copy\nof this software and associated documentation files (the \"Software\"), to deal\nin the S"
+  },
+  {
+    "name": "motion-readme",
+    "url": "https://raw.githubusercontent.com/motiondivision/motion/main/README.md",
+    "status": 200,
+    "bytes": 7475,
+    "preview": "<h1 align=\"center\"> <img width=\"35\" height=\"35\" alt=\"Motion logo\" src=\"https://github.com/user-attachments/assets/00d6d1c3-72c4-4c2f-a664-69da13182ffc\" /><br />Motion</h1>\n<h3 align=\"center\">\n  An open source animation library<br />for Java"
+  },
+  {
+    "name": "pixijs-license",
+    "url": "https://raw.githubusercontent.com/pixijs/pixijs/dev/LICENSE",
+    "status": 200,
+    "bytes": 1092,
+    "preview": "The MIT License\n\nCopyright (c) 2013-2023 Mathew Groves, Chad Engler\n\nPermission is hereby granted, free of charge, to any person obtaining a copy\nof this software and associated documentation files (the \"Software\"), to deal\nin the Software "
+  },
+  {
+    "name": "pixijs-readme",
+    "url": "https://raw.githubusercontent.com/pixijs/pixijs/dev/README.md",
+    "status": 200,
+    "bytes": 5008,
+    "preview": "<p align=\"center\">\n  <a href=\"https://pixijs.com\" target=\"_blank\" rel=\"noopener noreferrer\">\n    <img height=\"150\" src=\"https://files.pixijs.download/branding/pixijs-logo-transparent-dark.svg?v=1\" alt=\"PixiJS logo\">\n  </a>\n</p>\n<br/>\n<p ali"
+  },
+  {
+    "name": "lucide-license",
+    "url": "https://raw.githubusercontent.com/lucide-icons/lucide/main/LICENSE",
+    "status": 200,
+    "bytes": 3208,
+    "preview": "ISC License\n\nCopyright (c) 2026 Lucide Icons and Contributors\n\nPermission to use, copy, modify, and/or distribute this software for any\npurpose with or without fee is hereby granted, provided that the above\ncopyright notice and this permiss"
+  },
+  {
+    "name": "lucide-readme",
+    "url": "https://raw.githubusercontent.com/lucide-icons/lucide/main/README.md",
+    "status": 200,
+    "bytes": 8385,
+    "preview": "<p align=\"center\">\n  <a href=\"https://github.com/lucide-icons/lucide#gh-light-mode-only\">\n    <img src=\"https://lucide.dev/lucide-logo-repo.svg#gh-light-mode-only\" alt=\"Lucide - Beautiful & consistent icon toolkit made by the community. Ope"
+  },
+  {
+    "name": "tabler-license",
+    "url": "https://raw.githubusercontent.com/tabler/tabler-icons/main/LICENSE",
+    "status": 200,
+    "bytes": 1073,
+    "preview": "MIT License\n\nCopyright (c) 2020-2026 Paweł Kuna\n\nPermission is hereby granted, free of charge, to any person obtaining a copy\nof this software and associated documentation files (the \"Software\"), to deal\nin the Software without restriction,"
+  },
+  {
+    "name": "tabler-readme",
+    "url": "https://raw.githubusercontent.com/tabler/tabler-icons/main/README.md",
+    "status": 200,
+    "bytes": 14112,
+    "preview": "# Tabler Icons\n\n<p align=\"center\">\n  <a href=\"https://tabler.io/icons?ref=tabler-icons-readme\"><img src=\"https://raw.githubusercontent.com/tabler/tabler-icons/main/.github/packages/og-core.png\" alt=\"Tabler Icons\" width=\"838\"></a>\n</p>\n\n<p a"
+  },
+  {
+    "name": "blender-license",
+    "url": "https://raw.githubusercontent.com/blender/blender/main/COPYING",
+    "status": 200,
+    "bytes": 302,
+    "preview": "Blender uses the GNU General Public License, which describes the rights\nto distribute or change the code. \n\nPlease read this file for the full license.\ndoc/license/GPL-license.txt\n\nApart from the GNU GPL, Blender is not available under othe"
+  },
+  {
+    "name": "blender-readme",
+    "url": "https://raw.githubusercontent.com/blender/blender/main/README.md",
+    "status": 200,
+    "bytes": 1234,
+    "preview": "<!--\nKeep this document short & concise,\nlinking to external resources instead of including content in-line.\nSee 'release/text/readme.html' for the end user read-me.\n-->\n\nBlender\n=======\n\nBlender is the free and open source 3D creation suit"
+  },
+  {
+    "name": "comfy-license",
+    "url": "https://raw.githubusercontent.com/Comfy-Org/ComfyUI/master/LICENSE",
+    "status": 200,
+    "bytes": 35149,
+    "preview": "                    GNU GENERAL PUBLIC LICENSE\n                       Version 3, 29 June 2007\n\n Copyright (C) 2007 Free Software Foundation, Inc. <https://fsf.org/>\n Everyone is permitted to copy and distribute verbatim copies\n of this lice"
+  },
+  {
+    "name": "comfy-readme",
+    "url": "https://raw.githubusercontent.com/Comfy-Org/ComfyUI/master/README.md",
+    "status": 200,
+    "bytes": 29289,
+    "preview": "<div align=\"center\">\n\n# ComfyUI\n**The most powerful and modular AI engine for content creation.**\n\n\n[![Website][website-shield]][website-url]\n[![Dynamic JSON Badge][discord-shield]][discord-url]\n[![Twitter][twitter-shield]][twitter-url]\n[!["
+  },
+  {
+    "name": "flux-license",
+    "url": "https://huggingface.co/black-forest-labs/FLUX.1-schnell/raw/main/LICENSE.md",
+    "error": "<urlopen error Tunnel connection failed: 403 Forbidden>"
+  },
+  {
+    "name": "flux-readme",
+    "url": "https://huggingface.co/black-forest-labs/FLUX.1-schnell/raw/main/README.md",
+    "error": "<urlopen error Tunnel connection failed: 403 Forbidden>"
+  },
+  {
+    "name": "remotion-license",
+    "url": "https://raw.githubusercontent.com/remotion-dev/remotion/main/LICENSE.md",
+    "status": 200,
+    "bytes": 2823,
+    "preview": "# Remotion License\n\nIn Remotion 5.0, the license will slightly change. [View the changes here](https://github.com/remotion-dev/remotion/pull/3750).\n\n---\n\nDepending on the type of your legal entity, you are granted permission to use Remotion"
+  },
+  {
+    "name": "diffusers-license",
+    "url": "https://raw.githubusercontent.com/huggingface/diffusers/main/LICENSE",
+    "status": 200,
+    "bytes": 11357,
+    "preview": "                                 Apache License\n                           Version 2.0, January 2004\n                        http://www.apache.org/licenses/\n\n   TERMS AND CONDITIONS FOR USE, REPRODUCTION, AND DISTRIBUTION\n\n   1. Definitions"
+  }
+]

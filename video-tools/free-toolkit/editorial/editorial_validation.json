@@ -1,0 +1,22 @@
+{
+  "GUMA_v5_preview_39s": {
+    "duration": 39.255,
+    "sample_rate": "48000",
+    "channels": 1,
+    "all_caption_boundaries_in_audio": true,
+    "captions_monotone": true,
+    "complete_source_sentences_only": true,
+    "narrator_origin": "Only user Ece narration-master.wav; no brand source or reference footage audio",
+    "measurement_scope": "Decoded WAV, format, cut map and caption checks. No new ASR or word alignment is claimed."
+  },
+  "GUMA_v5_full_90s": {
+    "duration": 90.0,
+    "sample_rate": "48000",
+    "channels": 1,
+    "all_caption_boundaries_in_audio": true,
+    "captions_monotone": true,
+    "complete_source_sentences_only": true,
+    "narrator_origin": "Only user Ece narration-master.wav; no brand source or reference footage audio",
+    "measurement_scope": "Decoded WAV, format, cut map and caption checks. No new ASR or word alignment is claimed."
+  }
+}

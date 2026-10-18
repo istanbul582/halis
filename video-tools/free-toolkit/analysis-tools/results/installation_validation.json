@@ -1,0 +1,28 @@
+{
+  "python": "3.12.14",
+  "packages": {
+    "scenedetect": "0.6.7.1",
+    "opencv-python-headless": "4.12.0.88",
+    "opentimelineio": "0.17.0",
+    "scipy": "1.17.0",
+    "click": "8.2.1",
+    "numpy": "2.2.6",
+    "platformdirs": "4.13.4",
+    "tqdm": "4.70.1"
+  },
+  "import_all_four_and_scipy_signal": "PASS",
+  "audio_dsp_test": {
+    "operations": [
+      "signal.butter bandpass 850-4800Hz at 48kHz",
+      "signal.sosfilt",
+      "signal.lfilter envelope"
+    ],
+    "synthetic_samples": 48000,
+    "finite_same_length_output": "PASS",
+    "bandpass_reduces_wideband_noise_rms": "PASS"
+  },
+  "pip_check_returncode": 0,
+  "pip_check_stdout": "No broken requirements found.",
+  "pip_check_stderr": "",
+  "environment": "isolated local .venv; excluded from delivery"
+}

@@ -1,0 +1,14 @@
+{
+  "filename": "hero-ai-polish.png",
+  "source": "Native image_gen image edit of original authored Blender reference",
+  "reference": "/workspace/guma-video/toolkit-v5/blender/hero_main.png",
+  "generation": "Single native image_gen call, no downloaded model or paid external API configured",
+  "meaning": "Original unbranded illustrative sofa concept, not an actual GUMA/Saloni product or photograph",
+  "display_label": "Temsili AI görseli · Özgün Blender tasarımından üretildi",
+  "important": "This is a polished still, not a rendered 3D animation frame. Do not claim the AI image itself has true changing 3D camera geometry.",
+  "size": [
+    941,
+    1672
+  ],
+  "sha256": "c9f09f4c35d3d7ed5fef53a4ae1dde7f4ea35764bc240b9b268a5003ad14b01c"
+}

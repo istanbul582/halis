@@ -1,0 +1,13 @@
+{
+  "MemTotal": "34906016 kB",
+  "MemAvailable": "33874652 kB",
+  "cpus": 5,
+  "cgroup_memory_max_bytes": 34359738368,
+  "cgroup_cpu_quota": "400000 100000 (4 CPU cores equivalent)",
+  "disk_free_gib": 26.14,
+  "torch_installed_default_python": false,
+  "nvidia_smi": null,
+  "blender": "/usr/bin/blender",
+  "ffmpeg": "/usr/bin/ffmpeg",
+  "node": "/opt/codex/runtimes/codex-primary-runtime/dependencies/node/bin/node"
+}

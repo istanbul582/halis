@@ -1,0 +1,1230 @@
+{
+    "OTIO_SCHEMA": "Timeline.1",
+    "metadata": {
+        "guma_editorial": {
+            "audio_sample_rate": 48000,
+            "legal_editorial_notes": [
+                "All opening quote words are read by the user supplied Ece narrator; neither the brand source video nor reference audio is copied.",
+                "The opening quote must show Yavuz Selim Bayraktar attribution and the article source from the first frame.",
+                "50 bin TL is an announced budget plan, not a verified completed spend.",
+                "130 bin in the full version is a self-reported previous audience, not current GUMA followers.",
+                "The stated family/production relationships were publicly disclosed; do not frame them as hidden or evidence of lying.",
+                "No inference of free manufacturing, capital transfer, ownership share or fraud.",
+                "Generated furniture/studio scenes must be marked as illustrative rather than actual brand facilities/products."
+            ],
+            "media_not_embedded": true,
+            "original_json_name": "GUMA_v5_full_90s.json",
+            "original_json_sha256": "eeb799ebe285cbcbedf330f34bae928d37b70c29002e1300423db6d8230df2b4",
+            "sources": {
+                "article": {
+                    "label": "Yıldırım Gazetesi · 06.10.2025",
+                    "scope": "Kurucunun açıklaması ve haberde verilen görev; bağımsız mali doğrulama değildir.",
+                    "url": "https://www.yildirimgazetesi.com/inegollu-mobilyaci-gencler-inanilmazi-basardi"
+                },
+                "company_terms": {
+                    "label": "gumastore.com · Kullanım Şartları",
+                    "scope": "Şirketin üretim/satış ilişkisine dair açıklaması; ortaklık paylarını ya da bedelsiz üretimi kanıtlamaz.",
+                    "url": "https://gumastore.com/pages/kullanim-sartlari"
+                },
+                "first_video": {
+                    "label": "GUMA · 1. gün videosu",
+                    "scope": "Açıklanan bütçe planı ve anlatıcının önceki takipçi beyanı; gerçekleşen gider/değerleme değildir.",
+                    "url": "https://www.youtube.com/shorts/nnUXsnz3Wi0"
+                }
+            },
+            "timing_note": "Sentence boundaries from the reviewed source transcript. Phrase boundaries are approximate, inherited from segments.json; these are not forced-aligned word timestamps.",
+            "transcript_sentences": [
+                {
+                    "end": 4.28,
+                    "scene_id": "family_and_context",
+                    "source_end": 58.48,
+                    "source_start": 54.33,
+                    "start": 0.13,
+                    "text": "“Dayım Haluk Özbek, Guma’nın doğuş hikayesinde önemli bir paya sahip.”"
+                },
+                {
+                    "end": 9.51,
+                    "scene_id": "family_and_context",
+                    "source_end": 63.71,
+                    "source_start": 58.97,
+                    "start": 4.77,
+                    "text": "Haluk Özbek, aynı haberde Saloni Mobilya Yönetim Kurulu Başkanı olarak tanıtılıyor."
+                },
+                {
+                    "end": 14.72,
+                    "scene_id": "family_and_context",
+                    "source_end": 68.92,
+                    "source_start": 64.11,
+                    "start": 9.91,
+                    "text": "Bayraktar, dayısının bilgileriyle mobilya sektörünü tanımalarını sağladığını anlatıyor."
+                },
+                {
+                    "end": 17.715,
+                    "scene_id": "budget_plan",
+                    "source_end": 2.86,
+                    "source_start": 0.0,
+                    "start": 14.855,
+                    "text": "“Yaklaşık 50 bin lira sermayeyle başlayarak…”"
+                },
+                {
+                    "end": 20.855,
+                    "scene_id": "budget_plan",
+                    "source_end": 6.0,
+                    "source_start": 3.1,
+                    "start": 17.955,
+                    "text": "GUMA’nın ilk videosunda açıklanan bütçe planı bu."
+                },
+                {
+                    "end": 22.58,
+                    "scene_id": "previous_audience",
+                    "source_end": 13.62,
+                    "source_start": 12.18,
+                    "start": 21.14,
+                    "text": "Videoyu anlatan kurucu,"
+                },
+                {
+                    "end": 25.64,
+                    "scene_id": "previous_audience",
+                    "source_end": 16.68,
+                    "source_start": 13.62,
+                    "start": 22.58,
+                    "text": "daha önce 130 bin takipçiye ulaştığını söylüyor."
+                },
+                {
+                    "end": 31.675,
+                    "scene_id": "budget_question",
+                    "source_end": 22.8,
+                    "source_start": 17.02,
+                    "start": 25.895,
+                    "text": "Yani markalaşma hikâyesini değerlendirirken yalnızca başlangıç bütçesine bakmak yeterli mi?"
+                },
+                {
+                    "end": 33.33,
+                    "scene_id": "production",
+                    "source_end": 35.39,
+                    "source_start": 34.01,
+                    "start": 31.95,
+                    "text": "Bir de üretim tarafı var."
+                },
+                {
+                    "end": 40.62,
+                    "scene_id": "production",
+                    "source_end": 42.68,
+                    "source_start": 35.75,
+                    "start": 33.69,
+                    "text": "GUMA’nın kendi kullanım koşullarında, ürünlerin Saloni Mobilya tarafından üretildiği ve GUMA aracılığıyla satıldığı yazıyor."
+                },
+                {
+                    "end": 45.86,
+                    "scene_id": "production",
+                    "source_end": 47.92,
+                    "source_start": 43.07,
+                    "start": 41.01,
+                    "text": "Hatta şirket, Saloni için doğrudan “bünyesinde bulunduğu” ifadesini kullanıyor."
+                },
+                {
+                    "end": 54.025,
+                    "scene_id": "actual_work",
+                    "source_end": 98.98,
+                    "source_start": 91.09,
+                    "start": 46.135,
+                    "text": "Bir marka kurarken üreticiyi bulmak, numuneyi hazırlatmak, malzemeyi seçmek, ürünü tanıtmak ve ilk müşteriye ulaşmak gerekiyor."
+                },
+                {
+                    "end": 59.585,
+                    "scene_id": "actual_work",
+                    "source_end": 104.54,
+                    "source_start": 99.41,
+                    "start": 54.455,
+                    "text": "Başlangıç koşullarını konuşmak, bu işlerin hangilerini nasıl çözebildiğini konuşmak demek."
+                },
+                {
+                    "end": 65.4,
+                    "scene_id": "work_and_access",
+                    "source_end": 110.5,
+                    "source_start": 104.96,
+                    "start": 59.86,
+                    "text": "GUMA örneğinde tasarım ve pazarlama emeğiyle birlikte, açıklanan bu ilişkileri de görüyoruz."
+                },
+                {
+                    "end": 70.18,
+                    "scene_id": "work_and_access",
+                    "source_end": 115.28,
+                    "source_start": 110.92,
+                    "start": 65.82,
+                    "text": "Hikâyeyi öğretici yapan şey, bunların nasıl bir araya geldiğini anlayabilmek."
+                },
+                {
+                    "end": 72.425,
+                    "scene_id": "viewer_questions",
+                    "source_end": 124.45,
+                    "source_start": 122.51,
+                    "start": 70.485,
+                    "text": "O bütçeyle hangi işleri yaptılar?"
+                },
+                {
+                    "end": 74.625,
+                    "scene_id": "viewer_questions",
+                    "source_end": 126.65,
+                    "source_start": 124.73,
+                    "start": 72.705,
+                    "text": "Hangi imkânlara erişebiliyorlardı?"
+                },
+                {
+                    "end": 78.445,
+                    "scene_id": "viewer_questions",
+                    "source_end": 130.47,
+                    "source_start": 127.02,
+                    "start": 74.995,
+                    "text": "Sen aynı işe başlasan, ayrıca neleri kurman gerekecek?"
+                },
+                {
+                    "end": 82.305,
+                    "scene_id": "viewer_questions",
+                    "source_end": 134.33,
+                    "source_start": 130.9,
+                    "start": 78.875,
+                    "text": "İşte başlangıç rakamı, bu sorularla birlikte anlam kazanıyor."
+                },
+                {
+                    "end": 83.72,
+                    "scene_id": "final_question",
+                    "source_end": 148.82,
+                    "source_start": 147.69,
+                    "start": 82.59,
+                    "text": "O yüzden sorum şu:"
+                },
+                {
+                    "end": 88.35,
+                    "scene_id": "final_question",
+                    "source_end": 153.45,
+                    "source_start": 149.27,
+                    "start": 84.17,
+                    "text": "Aynı parayla başlayan iki insan, gerçekten aynı noktadan mı başlıyor?"
+                },
+                {
+                    "end": 89.84,
+                    "scene_id": "final_question",
+                    "source_end": 154.94,
+                    "source_start": 153.87,
+                    "start": 88.77,
+                    "text": "Yorumlarda buluşalım."
+                }
+            ],
+            "transition_note": "25 ms equal-overlap edit intent; OTIO audio dissolve interpretation depends on importing editor.",
+            "video_frame_rate": 30,
+            "voice_relink_required": true
+        }
+    },
+    "name": "GUMA_v5_full_90s",
+    "global_start_time": {
+        "OTIO_SCHEMA": "RationalTime.1",
+        "rate": 48000.0,
+        "value": 0.0
+    },
+    "tracks": {
+        "OTIO_SCHEMA": "Stack.1",
+        "metadata": {},
+        "name": "tracks",
+        "source_range": null,
+        "effects": [],
+        "markers": [],
+        "enabled": true,
+        "children": [
+            {
+                "OTIO_SCHEMA": "Track.1",
+                "metadata": {},
+                "name": "V1 · sahne yer tutucuları",
+                "source_range": null,
+                "effects": [],
+                "markers": [],
+                "enabled": true,
+                "children": [
+                    {
+                        "OTIO_SCHEMA": "Clip.2",
+                        "metadata": {
+                            "guma_visual_intent": "Kendi sözleriyle başlangıç, haberdeki görev ve bilgi desteğinin kapsamı. Alıntı ilk kareden kişi+haberle ilişkilendirilir.",
+                            "source_key": "article"
+                        },
+                        "name": "family_and_context · görsel tasarlanacak",
+                        "source_range": {
+                            "OTIO_SCHEMA": "TimeRange.1",
+                            "duration": {
+                                "OTIO_SCHEMA": "RationalTime.1",
+                                "rate": 48000.0,
+                                "value": 713640.0
+                            },
+                            "start_time": {
+                                "OTIO_SCHEMA": "RationalTime.1",
+                                "rate": 48000.0,
+                                "value": 0.0
+                            }
+                        },
+                        "effects": [],
+                        "markers": [],
+                        "enabled": true,
+                        "media_references": {
+                            "DEFAULT_MEDIA": {
+                                "OTIO_SCHEMA": "MissingReference.1",
+                                "metadata": {},
+                                "name": "",
+                                "available_range": null,
+                                "available_image_bounds": null
+                            }
+                        },
+                        "active_media_reference_key": "DEFAULT_MEDIA"
+                    },
+                    {
+                        "OTIO_SCHEMA": "Clip.2",
+                        "metadata": {
+                            "guma_visual_intent": "Sonuç/gider gibi değil açıklanan bütçe planı olarak görselleştirilir.",
+                            "source_key": "first_video"
+                        },
+                        "name": "budget_plan · görsel tasarlanacak",
+                        "source_range": {
+                            "OTIO_SCHEMA": "TimeRange.1",
+                            "duration": {
+                                "OTIO_SCHEMA": "RationalTime.1",
+                                "rate": 48000.0,
+                                "value": 295440.0
+                            },
+                            "start_time": {
+                                "OTIO_SCHEMA": "RationalTime.1",
+                                "rate": 48000.0,
+                                "value": 0.0
+                            }
+                        },
+                        "effects": [],
+                        "markers": [],
+                        "enabled": true,
+                        "media_references": {
+                            "DEFAULT_MEDIA": {
+                                "OTIO_SCHEMA": "MissingReference.1",
+                                "metadata": {},
+                                "name": "",
+                                "available_range": null,
+                                "available_image_bounds": null
+                            }
+                        },
+                        "active_media_reference_key": "DEFAULT_MEDIA"
+                    },
+                    {
+                        "OTIO_SCHEMA": "Clip.2",
+                        "metadata": {
+                            "guma_visual_intent": "130 bin, kurucunun daha önce ulaştığını söylediği kitle. GUMA güncel takipçi sayısı değildir.",
+                            "source_key": "first_video"
+                        },
+                        "name": "previous_audience · görsel tasarlanacak",
+                        "source_range": {
+                            "OTIO_SCHEMA": "TimeRange.1",
+                            "duration": {
+                                "OTIO_SCHEMA": "RationalTime.1",
+                                "rate": 48000.0,
+                                "value": 228720.0
+                            },
+                            "start_time": {
+                                "OTIO_SCHEMA": "RationalTime.1",
+                                "rate": 48000.0,
+                                "value": 0.0
+                            }
+                        },
+                        "effects": [],
+                        "markers": [],
+                        "enabled": true,
+                        "media_references": {
+                            "DEFAULT_MEDIA": {
+                                "OTIO_SCHEMA": "MissingReference.1",
+                                "metadata": {},
+                                "name": "",
+                                "available_range": null,
+                                "available_image_bounds": null
+                            }
+                        },
+                        "active_media_reference_key": "DEFAULT_MEDIA"
+                    },
+                    {
+                        "OTIO_SCHEMA": "Clip.2",
+                        "metadata": {
+                            "guma_visual_intent": "Yeni bir iddia eklemeden izleyiciye değerlendirme sorusu.",
+                            "source_key": null
+                        },
+                        "name": "budget_question · görsel tasarlanacak",
+                        "source_range": {
+                            "OTIO_SCHEMA": "TimeRange.1",
+                            "duration": {
+                                "OTIO_SCHEMA": "RationalTime.1",
+                                "rate": 48000.0,
+                                "value": 289680.0
+                            },
+                            "start_time": {
+                                "OTIO_SCHEMA": "RationalTime.1",
+                                "rate": 48000.0,
+                                "value": 0.0
+                            }
+                        },
+                        "effects": [],
+                        "markers": [],
+                        "enabled": true,
+                        "media_references": {
+                            "DEFAULT_MEDIA": {
+                                "OTIO_SCHEMA": "MissingReference.1",
+                                "metadata": {},
+                                "name": "",
+                                "available_range": null,
+                                "available_image_bounds": null
+                            }
+                        },
+                        "active_media_reference_key": "DEFAULT_MEDIA"
+                    },
+                    {
+                        "OTIO_SCHEMA": "Clip.2",
+                        "metadata": {
+                            "guma_visual_intent": "Şirketin açıkladığı üretim/satış ilişkisi; açık şirket metni kısa doğru alıntıyla gösterilir.",
+                            "source_key": "company_terms"
+                        },
+                        "name": "production · görsel tasarlanacak",
+                        "source_range": {
+                            "OTIO_SCHEMA": "TimeRange.1",
+                            "duration": {
+                                "OTIO_SCHEMA": "RationalTime.1",
+                                "rate": 48000.0,
+                                "value": 680880.0
+                            },
+                            "start_time": {
+                                "OTIO_SCHEMA": "RationalTime.1",
+                                "rate": 48000.0,
+                                "value": 0.0
+                            }
+                        },
+                        "effects": [],
+                        "markers": [],
+                        "enabled": true,
+                        "media_references": {
+                            "DEFAULT_MEDIA": {
+                                "OTIO_SCHEMA": "MissingReference.1",
+                                "metadata": {},
+                                "name": "",
+                                "available_range": null,
+                                "available_image_bounds": null
+                            }
+                        },
+                        "active_media_reference_key": "DEFAULT_MEDIA"
+                    },
+                    {
+                        "OTIO_SCHEMA": "Clip.2",
+                        "metadata": {
+                            "guma_visual_intent": "Üretici, numune, malzeme, tanıtım ve ilk müşteri: birbirine bağlı somut işler.",
+                            "source_key": null
+                        },
+                        "name": "actual_work · görsel tasarlanacak",
+                        "source_range": {
+                            "OTIO_SCHEMA": "TimeRange.1",
+                            "duration": {
+                                "OTIO_SCHEMA": "RationalTime.1",
+                                "rate": 48000.0,
+                                "value": 658800.0
+                            },
+                            "start_time": {
+                                "OTIO_SCHEMA": "RationalTime.1",
+                                "rate": 48000.0,
+                                "value": 0.0
+                            }
+                        },
+                        "effects": [],
+                        "markers": [],
+                        "enabled": true,
+                        "media_references": {
+                            "DEFAULT_MEDIA": {
+                                "OTIO_SCHEMA": "MissingReference.1",
+                                "metadata": {},
+                                "name": "",
+                                "available_range": null,
+                                "available_image_bounds": null
+                            }
+                        },
+                        "active_media_reference_key": "DEFAULT_MEDIA"
+                    },
+                    {
+                        "OTIO_SCHEMA": "Clip.2",
+                        "metadata": {
+                            "guma_visual_intent": "Tasarım/pazarlama emeği ve açıklanan erişimler birlikte değerlendirilir.",
+                            "source_key": null
+                        },
+                        "name": "work_and_access · görsel tasarlanacak",
+                        "source_range": {
+                            "OTIO_SCHEMA": "TimeRange.1",
+                            "duration": {
+                                "OTIO_SCHEMA": "RationalTime.1",
+                                "rate": 48000.0,
+                                "value": 509040.0
+                            },
+                            "start_time": {
+                                "OTIO_SCHEMA": "RationalTime.1",
+                                "rate": 48000.0,
+                                "value": 0.0
+                            }
+                        },
+                        "effects": [],
+                        "markers": [],
+                        "enabled": true,
+                        "media_references": {
+                            "DEFAULT_MEDIA": {
+                                "OTIO_SCHEMA": "MissingReference.1",
+                                "metadata": {},
+                                "name": "",
+                                "available_range": null,
+                                "available_image_bounds": null
+                            }
+                        },
+                        "active_media_reference_key": "DEFAULT_MEDIA"
+                    },
+                    {
+                        "OTIO_SCHEMA": "Clip.2",
+                        "metadata": {
+                            "guma_visual_intent": "İzleyiciye üç kullanılabilir soru: bütçe neyi karşıladı, hangi imkân vardı, kendisi ne kurmalı?",
+                            "source_key": null
+                        },
+                        "name": "viewer_questions · görsel tasarlanacak",
+                        "source_range": {
+                            "OTIO_SCHEMA": "TimeRange.1",
+                            "duration": {
+                                "OTIO_SCHEMA": "RationalTime.1",
+                                "rate": 48000.0,
+                                "value": 582000.0
+                            },
+                            "start_time": {
+                                "OTIO_SCHEMA": "RationalTime.1",
+                                "rate": 48000.0,
+                                "value": 0.0
+                            }
+                        },
+                        "effects": [],
+                        "markers": [],
+                        "enabled": true,
+                        "media_references": {
+                            "DEFAULT_MEDIA": {
+                                "OTIO_SCHEMA": "MissingReference.1",
+                                "metadata": {},
+                                "name": "",
+                                "available_range": null,
+                                "available_image_bounds": null
+                            }
+                        },
+                        "active_media_reference_key": "DEFAULT_MEDIA"
+                    },
+                    {
+                        "OTIO_SCHEMA": "Clip.2",
+                        "metadata": {
+                            "guma_visual_intent": "Tamamlanmış final sorusu ve kullanıcının verdiği özgün anlatıcıyla yorum daveti.",
+                            "source_key": null
+                        },
+                        "name": "final_question · görsel tasarlanacak",
+                        "source_range": {
+                            "OTIO_SCHEMA": "TimeRange.1",
+                            "duration": {
+                                "OTIO_SCHEMA": "RationalTime.1",
+                                "rate": 48000.0,
+                                "value": 361800.0
+                            },
+                            "start_time": {
+                                "OTIO_SCHEMA": "RationalTime.1",
+                                "rate": 48000.0,
+                                "value": 0.0
+                            }
+                        },
+                        "effects": [],
+                        "markers": [],
+                        "enabled": true,
+                        "media_references": {
+                            "DEFAULT_MEDIA": {
+                                "OTIO_SCHEMA": "MissingReference.1",
+                                "metadata": {},
+                                "name": "",
+                                "available_range": null,
+                                "available_image_bounds": null
+                            }
+                        },
+                        "active_media_reference_key": "DEFAULT_MEDIA"
+                    }
+                ],
+                "kind": "Video"
+            },
+            {
+                "OTIO_SCHEMA": "Track.1",
+                "metadata": {},
+                "name": "A1 · Ece kullanıcı seslendirmesi",
+                "source_range": null,
+                "effects": [],
+                "markers": [],
+                "enabled": true,
+                "children": [
+                    {
+                        "OTIO_SCHEMA": "Clip.2",
+                        "metadata": {
+                            "guma_edit": {
+                                "full_selected_source_end": 69.08,
+                                "full_selected_source_start": 54.2,
+                                "id": "family_and_context",
+                                "purpose": "Kendi sözleriyle başlangıç, haberdeki görev ve bilgi desteğinin kapsamı. Alıntı ilk kareden kişi+haberle ilişkilendirilir.",
+                                "source_key": "article",
+                                "timeline_start_seconds": 0.0
+                            }
+                        },
+                        "name": "family_and_context",
+                        "source_range": {
+                            "OTIO_SCHEMA": "TimeRange.1",
+                            "duration": {
+                                "OTIO_SCHEMA": "RationalTime.1",
+                                "rate": 48000.0,
+                                "value": 713640.0
+                            },
+                            "start_time": {
+                                "OTIO_SCHEMA": "RationalTime.1",
+                                "rate": 48000.0,
+                                "value": 2601600.0
+                            }
+                        },
+                        "effects": [],
+                        "markers": [],
+                        "enabled": true,
+                        "media_references": {
+                            "DEFAULT_MEDIA": {
+                                "OTIO_SCHEMA": "ExternalReference.1",
+                                "metadata": {
+                                    "relink_required": true,
+                                    "source_kind": "user supplied Ece narration only"
+                                },
+                                "name": "",
+                                "available_range": {
+                                    "OTIO_SCHEMA": "TimeRange.1",
+                                    "duration": {
+                                        "OTIO_SCHEMA": "RationalTime.1",
+                                        "rate": 48000.0,
+                                        "value": 7448016.0
+                                    },
+                                    "start_time": {
+                                        "OTIO_SCHEMA": "RationalTime.1",
+                                        "rate": 48000.0,
+                                        "value": 0.0
+                                    }
+                                },
+                                "available_image_bounds": null,
+                                "target_url": "USER_NARRATION_WAV_RELINK_REQUIRED.wav"
+                            }
+                        },
+                        "active_media_reference_key": "DEFAULT_MEDIA"
+                    },
+                    {
+                        "OTIO_SCHEMA": "Transition.1",
+                        "metadata": {
+                            "guma_audio_crossfade": {
+                                "duration_seconds": 0.025
+                            }
+                        },
+                        "name": "25 ms ses geçişi",
+                        "in_offset": {
+                            "OTIO_SCHEMA": "RationalTime.1",
+                            "rate": 48000.0,
+                            "value": 600.0
+                        },
+                        "out_offset": {
+                            "OTIO_SCHEMA": "RationalTime.1",
+                            "rate": 48000.0,
+                            "value": 600.0
+                        },
+                        "transition_type": "SMPTE_Dissolve"
+                    },
+                    {
+                        "OTIO_SCHEMA": "Clip.2",
+                        "metadata": {
+                            "guma_edit": {
+                                "full_selected_source_end": 6.18,
+                                "full_selected_source_start": 0.0,
+                                "id": "budget_plan",
+                                "purpose": "Sonuç/gider gibi değil açıklanan bütçe planı olarak görselleştirilir.",
+                                "source_key": "first_video",
+                                "timeline_start_seconds": 14.8675
+                            }
+                        },
+                        "name": "budget_plan",
+                        "source_range": {
+                            "OTIO_SCHEMA": "TimeRange.1",
+                            "duration": {
+                                "OTIO_SCHEMA": "RationalTime.1",
+                                "rate": 48000.0,
+                                "value": 295440.0
+                            },
+                            "start_time": {
+                                "OTIO_SCHEMA": "RationalTime.1",
+                                "rate": 48000.0,
+                                "value": 600.0
+                            }
+                        },
+                        "effects": [],
+                        "markers": [],
+                        "enabled": true,
+                        "media_references": {
+                            "DEFAULT_MEDIA": {
+                                "OTIO_SCHEMA": "ExternalReference.1",
+                                "metadata": {
+                                    "relink_required": true,
+                                    "source_kind": "user supplied Ece narration only"
+                                },
+                                "name": "",
+                                "available_range": {
+                                    "OTIO_SCHEMA": "TimeRange.1",
+                                    "duration": {
+                                        "OTIO_SCHEMA": "RationalTime.1",
+                                        "rate": 48000.0,
+                                        "value": 7448016.0
+                                    },
+                                    "start_time": {
+                                        "OTIO_SCHEMA": "RationalTime.1",
+                                        "rate": 48000.0,
+                                        "value": 0.0
+                                    }
+                                },
+                                "available_image_bounds": null,
+                                "target_url": "USER_NARRATION_WAV_RELINK_REQUIRED.wav"
+                            }
+                        },
+                        "active_media_reference_key": "DEFAULT_MEDIA"
+                    },
+                    {
+                        "OTIO_SCHEMA": "Transition.1",
+                        "metadata": {
+                            "guma_audio_crossfade": {
+                                "duration_seconds": 0.025
+                            }
+                        },
+                        "name": "25 ms ses geçişi",
+                        "in_offset": {
+                            "OTIO_SCHEMA": "RationalTime.1",
+                            "rate": 48000.0,
+                            "value": 600.0
+                        },
+                        "out_offset": {
+                            "OTIO_SCHEMA": "RationalTime.1",
+                            "rate": 48000.0,
+                            "value": 600.0
+                        },
+                        "transition_type": "SMPTE_Dissolve"
+                    },
+                    {
+                        "OTIO_SCHEMA": "Clip.2",
+                        "metadata": {
+                            "guma_edit": {
+                                "full_selected_source_end": 16.84,
+                                "full_selected_source_start": 12.05,
+                                "id": "previous_audience",
+                                "purpose": "130 bin, kurucunun daha önce ulaştığını söylediği kitle. GUMA güncel takipçi sayısı değildir.",
+                                "source_key": "first_video",
+                                "timeline_start_seconds": 21.0225
+                            }
+                        },
+                        "name": "previous_audience",
+                        "source_range": {
+                            "OTIO_SCHEMA": "TimeRange.1",
+                            "duration": {
+                                "OTIO_SCHEMA": "RationalTime.1",
+                                "rate": 48000.0,
+                                "value": 228720.0
+                            },
+                            "start_time": {
+                                "OTIO_SCHEMA": "RationalTime.1",
+                                "rate": 48000.0,
+                                "value": 579000.0
+                            }
+                        },
+                        "effects": [],
+                        "markers": [],
+                        "enabled": true,
+                        "media_references": {
+                            "DEFAULT_MEDIA": {
+                                "OTIO_SCHEMA": "ExternalReference.1",
+                                "metadata": {
+                                    "relink_required": true,
+                                    "source_kind": "user supplied Ece narration only"
+                                },
+                                "name": "",
+                                "available_range": {
+                                    "OTIO_SCHEMA": "TimeRange.1",
+                                    "duration": {
+                                        "OTIO_SCHEMA": "RationalTime.1",
+                                        "rate": 48000.0,
+                                        "value": 7448016.0
+                                    },
+                                    "start_time": {
+                                        "OTIO_SCHEMA": "RationalTime.1",
+                                        "rate": 48000.0,
+                                        "value": 0.0
+                                    }
+                                },
+                                "available_image_bounds": null,
+                                "target_url": "USER_NARRATION_WAV_RELINK_REQUIRED.wav"
+                            }
+                        },
+                        "active_media_reference_key": "DEFAULT_MEDIA"
+                    },
+                    {
+                        "OTIO_SCHEMA": "Transition.1",
+                        "metadata": {
+                            "guma_audio_crossfade": {
+                                "duration_seconds": 0.025
+                            }
+                        },
+                        "name": "25 ms ses geçişi",
+                        "in_offset": {
+                            "OTIO_SCHEMA": "RationalTime.1",
+                            "rate": 48000.0,
+                            "value": 600.0
+                        },
+                        "out_offset": {
+                            "OTIO_SCHEMA": "RationalTime.1",
+                            "rate": 48000.0,
+                            "value": 600.0
+                        },
+                        "transition_type": "SMPTE_Dissolve"
+                    },
+                    {
+                        "OTIO_SCHEMA": "Clip.2",
+                        "metadata": {
+                            "guma_edit": {
+                                "full_selected_source_end": 22.96,
+                                "full_selected_source_start": 16.9,
+                                "id": "budget_question",
+                                "purpose": "Yeni bir iddia eklemeden izleyiciye değerlendirme sorusu.",
+                                "source_key": null,
+                                "timeline_start_seconds": 25.787499999999998
+                            }
+                        },
+                        "name": "budget_question",
+                        "source_range": {
+                            "OTIO_SCHEMA": "TimeRange.1",
+                            "duration": {
+                                "OTIO_SCHEMA": "RationalTime.1",
+                                "rate": 48000.0,
+                                "value": 289680.0
+                            },
+                            "start_time": {
+                                "OTIO_SCHEMA": "RationalTime.1",
+                                "rate": 48000.0,
+                                "value": 811800.0
+                            }
+                        },
+                        "effects": [],
+                        "markers": [],
+                        "enabled": true,
+                        "media_references": {
+                            "DEFAULT_MEDIA": {
+                                "OTIO_SCHEMA": "ExternalReference.1",
+                                "metadata": {
+                                    "relink_required": true,
+                                    "source_kind": "user supplied Ece narration only"
+                                },
+                                "name": "",
+                                "available_range": {
+                                    "OTIO_SCHEMA": "TimeRange.1",
+                                    "duration": {
+                                        "OTIO_SCHEMA": "RationalTime.1",
+                                        "rate": 48000.0,
+                                        "value": 7448016.0
+                                    },
+                                    "start_time": {
+                                        "OTIO_SCHEMA": "RationalTime.1",
+                                        "rate": 48000.0,
+                                        "value": 0.0
+                                    }
+                                },
+                                "available_image_bounds": null,
+                                "target_url": "USER_NARRATION_WAV_RELINK_REQUIRED.wav"
+                            }
+                        },
+                        "active_media_reference_key": "DEFAULT_MEDIA"
+                    },
+                    {
+                        "OTIO_SCHEMA": "Transition.1",
+                        "metadata": {
+                            "guma_audio_crossfade": {
+                                "duration_seconds": 0.025
+                            }
+                        },
+                        "name": "25 ms ses geçişi",
+                        "in_offset": {
+                            "OTIO_SCHEMA": "RationalTime.1",
+                            "rate": 48000.0,
+                            "value": 600.0
+                        },
+                        "out_offset": {
+                            "OTIO_SCHEMA": "RationalTime.1",
+                            "rate": 48000.0,
+                            "value": 600.0
+                        },
+                        "transition_type": "SMPTE_Dissolve"
+                    },
+                    {
+                        "OTIO_SCHEMA": "Clip.2",
+                        "metadata": {
+                            "guma_edit": {
+                                "full_selected_source_end": 48.08,
+                                "full_selected_source_start": 33.87,
+                                "id": "production",
+                                "purpose": "Şirketin açıkladığı üretim/satış ilişkisi; açık şirket metni kısa doğru alıntıyla gösterilir.",
+                                "source_key": "company_terms",
+                                "timeline_start_seconds": 31.822499999999998
+                            }
+                        },
+                        "name": "production",
+                        "source_range": {
+                            "OTIO_SCHEMA": "TimeRange.1",
+                            "duration": {
+                                "OTIO_SCHEMA": "RationalTime.1",
+                                "rate": 48000.0,
+                                "value": 680880.0
+                            },
+                            "start_time": {
+                                "OTIO_SCHEMA": "RationalTime.1",
+                                "rate": 48000.0,
+                                "value": 1626360.0
+                            }
+                        },
+                        "effects": [],
+                        "markers": [],
+                        "enabled": true,
+                        "media_references": {
+                            "DEFAULT_MEDIA": {
+                                "OTIO_SCHEMA": "ExternalReference.1",
+                                "metadata": {
+                                    "relink_required": true,
+                                    "source_kind": "user supplied Ece narration only"
+                                },
+                                "name": "",
+                                "available_range": {
+                                    "OTIO_SCHEMA": "TimeRange.1",
+                                    "duration": {
+                                        "OTIO_SCHEMA": "RationalTime.1",
+                                        "rate": 48000.0,
+                                        "value": 7448016.0
+                                    },
+                                    "start_time": {
+                                        "OTIO_SCHEMA": "RationalTime.1",
+                                        "rate": 48000.0,
+                                        "value": 0.0
+                                    }
+                                },
+                                "available_image_bounds": null,
+                                "target_url": "USER_NARRATION_WAV_RELINK_REQUIRED.wav"
+                            }
+                        },
+                        "active_media_reference_key": "DEFAULT_MEDIA"
+                    },
+                    {
+                        "OTIO_SCHEMA": "Transition.1",
+                        "metadata": {
+                            "guma_audio_crossfade": {
+                                "duration_seconds": 0.025
+                            }
+                        },
+                        "name": "25 ms ses geçişi",
+                        "in_offset": {
+                            "OTIO_SCHEMA": "RationalTime.1",
+                            "rate": 48000.0,
+                            "value": 600.0
+                        },
+                        "out_offset": {
+                            "OTIO_SCHEMA": "RationalTime.1",
+                            "rate": 48000.0,
+                            "value": 600.0
+                        },
+                        "transition_type": "SMPTE_Dissolve"
+                    },
+                    {
+                        "OTIO_SCHEMA": "Clip.2",
+                        "metadata": {
+                            "guma_edit": {
+                                "full_selected_source_end": 104.7,
+                                "full_selected_source_start": 90.95,
+                                "id": "actual_work",
+                                "purpose": "Üretici, numune, malzeme, tanıtım ve ilk müşteri: birbirine bağlı somut işler.",
+                                "source_key": null,
+                                "timeline_start_seconds": 46.0075
+                            }
+                        },
+                        "name": "actual_work",
+                        "source_range": {
+                            "OTIO_SCHEMA": "TimeRange.1",
+                            "duration": {
+                                "OTIO_SCHEMA": "RationalTime.1",
+                                "rate": 48000.0,
+                                "value": 658800.0
+                            },
+                            "start_time": {
+                                "OTIO_SCHEMA": "RationalTime.1",
+                                "rate": 48000.0,
+                                "value": 4366200.0
+                            }
+                        },
+                        "effects": [],
+                        "markers": [],
+                        "enabled": true,
+                        "media_references": {
+                            "DEFAULT_MEDIA": {
+                                "OTIO_SCHEMA": "ExternalReference.1",
+                                "metadata": {
+                                    "relink_required": true,
+                                    "source_kind": "user supplied Ece narration only"
+                                },
+                                "name": "",
+                                "available_range": {
+                                    "OTIO_SCHEMA": "TimeRange.1",
+                                    "duration": {
+                                        "OTIO_SCHEMA": "RationalTime.1",
+                                        "rate": 48000.0,
+                                        "value": 7448016.0
+                                    },
+                                    "start_time": {
+                                        "OTIO_SCHEMA": "RationalTime.1",
+                                        "rate": 48000.0,
+                                        "value": 0.0
+                                    }
+                                },
+                                "available_image_bounds": null,
+                                "target_url": "USER_NARRATION_WAV_RELINK_REQUIRED.wav"
+                            }
+                        },
+                        "active_media_reference_key": "DEFAULT_MEDIA"
+                    },
+                    {
+                        "OTIO_SCHEMA": "Transition.1",
+                        "metadata": {
+                            "guma_audio_crossfade": {
+                                "duration_seconds": 0.025
+                            }
+                        },
+                        "name": "25 ms ses geçişi",
+                        "in_offset": {
+                            "OTIO_SCHEMA": "RationalTime.1",
+                            "rate": 48000.0,
+                            "value": 600.0
+                        },
+                        "out_offset": {
+                            "OTIO_SCHEMA": "RationalTime.1",
+                            "rate": 48000.0,
+                            "value": 600.0
+                        },
+                        "transition_type": "SMPTE_Dissolve"
+                    },
+                    {
+                        "OTIO_SCHEMA": "Clip.2",
+                        "metadata": {
+                            "guma_edit": {
+                                "full_selected_source_end": 115.45,
+                                "full_selected_source_start": 104.82,
+                                "id": "work_and_access",
+                                "purpose": "Tasarım/pazarlama emeği ve açıklanan erişimler birlikte değerlendirilir.",
+                                "source_key": null,
+                                "timeline_start_seconds": 59.7325
+                            }
+                        },
+                        "name": "work_and_access",
+                        "source_range": {
+                            "OTIO_SCHEMA": "TimeRange.1",
+                            "duration": {
+                                "OTIO_SCHEMA": "RationalTime.1",
+                                "rate": 48000.0,
+                                "value": 509040.0
+                            },
+                            "start_time": {
+                                "OTIO_SCHEMA": "RationalTime.1",
+                                "rate": 48000.0,
+                                "value": 5031960.0
+                            }
+                        },
+                        "effects": [],
+                        "markers": [],
+                        "enabled": true,
+                        "media_references": {
+                            "DEFAULT_MEDIA": {
+                                "OTIO_SCHEMA": "ExternalReference.1",
+                                "metadata": {
+                                    "relink_required": true,
+                                    "source_kind": "user supplied Ece narration only"
+                                },
+                                "name": "",
+                                "available_range": {
+                                    "OTIO_SCHEMA": "TimeRange.1",
+                                    "duration": {
+                                        "OTIO_SCHEMA": "RationalTime.1",
+                                        "rate": 48000.0,
+                                        "value": 7448016.0
+                                    },
+                                    "start_time": {
+                                        "OTIO_SCHEMA": "RationalTime.1",
+                                        "rate": 48000.0,
+                                        "value": 0.0
+                                    }
+                                },
+                                "available_image_bounds": null,
+                                "target_url": "USER_NARRATION_WAV_RELINK_REQUIRED.wav"
+                            }
+                        },
+                        "active_media_reference_key": "DEFAULT_MEDIA"
+                    },
+                    {
+                        "OTIO_SCHEMA": "Transition.1",
+                        "metadata": {
+                            "guma_audio_crossfade": {
+                                "duration_seconds": 0.025
+                            }
+                        },
+                        "name": "25 ms ses geçişi",
+                        "in_offset": {
+                            "OTIO_SCHEMA": "RationalTime.1",
+                            "rate": 48000.0,
+                            "value": 600.0
+                        },
+                        "out_offset": {
+                            "OTIO_SCHEMA": "RationalTime.1",
+                            "rate": 48000.0,
+                            "value": 600.0
+                        },
+                        "transition_type": "SMPTE_Dissolve"
+                    },
+                    {
+                        "OTIO_SCHEMA": "Clip.2",
+                        "metadata": {
+                            "guma_edit": {
+                                "full_selected_source_end": 134.5,
+                                "full_selected_source_start": 122.35,
+                                "id": "viewer_questions",
+                                "purpose": "İzleyiciye üç kullanılabilir soru: bütçe neyi karşıladı, hangi imkân vardı, kendisi ne kurmalı?",
+                                "source_key": null,
+                                "timeline_start_seconds": 70.3375
+                            }
+                        },
+                        "name": "viewer_questions",
+                        "source_range": {
+                            "OTIO_SCHEMA": "TimeRange.1",
+                            "duration": {
+                                "OTIO_SCHEMA": "RationalTime.1",
+                                "rate": 48000.0,
+                                "value": 582000.0
+                            },
+                            "start_time": {
+                                "OTIO_SCHEMA": "RationalTime.1",
+                                "rate": 48000.0,
+                                "value": 5873400.0
+                            }
+                        },
+                        "effects": [],
+                        "markers": [],
+                        "enabled": true,
+                        "media_references": {
+                            "DEFAULT_MEDIA": {
+                                "OTIO_SCHEMA": "ExternalReference.1",
+                                "metadata": {
+                                    "relink_required": true,
+                                    "source_kind": "user supplied Ece narration only"
+                                },
+                                "name": "",
+                                "available_range": {
+                                    "OTIO_SCHEMA": "TimeRange.1",
+                                    "duration": {
+                                        "OTIO_SCHEMA": "RationalTime.1",
+                                        "rate": 48000.0,
+                                        "value": 7448016.0
+                                    },
+                                    "start_time": {
+                                        "OTIO_SCHEMA": "RationalTime.1",
+                                        "rate": 48000.0,
+                                        "value": 0.0
+                                    }
+                                },
+                                "available_image_bounds": null,
+                                "target_url": "USER_NARRATION_WAV_RELINK_REQUIRED.wav"
+                            }
+                        },
+                        "active_media_reference_key": "DEFAULT_MEDIA"
+                    },
+                    {
+                        "OTIO_SCHEMA": "Transition.1",
+                        "metadata": {
+                            "guma_audio_crossfade": {
+                                "duration_seconds": 0.025
+                            }
+                        },
+                        "name": "25 ms ses geçişi",
+                        "in_offset": {
+                            "OTIO_SCHEMA": "RationalTime.1",
+                            "rate": 48000.0,
+                            "value": 600.0
+                        },
+                        "out_offset": {
+                            "OTIO_SCHEMA": "RationalTime.1",
+                            "rate": 48000.0,
+                            "value": 600.0
+                        },
+                        "transition_type": "SMPTE_Dissolve"
+                    },
+                    {
+                        "OTIO_SCHEMA": "Clip.2",
+                        "metadata": {
+                            "guma_edit": {
+                                "full_selected_source_end": 155.1,
+                                "full_selected_source_start": 147.55,
+                                "id": "final_question",
+                                "purpose": "Tamamlanmış final sorusu ve kullanıcının verdiği özgün anlatıcıyla yorum daveti.",
+                                "source_key": null,
+                                "timeline_start_seconds": 82.4625
+                            }
+                        },
+                        "name": "final_question",
+                        "source_range": {
+                            "OTIO_SCHEMA": "TimeRange.1",
+                            "duration": {
+                                "OTIO_SCHEMA": "RationalTime.1",
+                                "rate": 48000.0,
+                                "value": 361800.0
+                            },
+                            "start_time": {
+                                "OTIO_SCHEMA": "RationalTime.1",
+                                "rate": 48000.0,
+                                "value": 7083000.0
+                            }
+                        },
+                        "effects": [],
+                        "markers": [],
+                        "enabled": true,
+                        "media_references": {
+                            "DEFAULT_MEDIA": {
+                                "OTIO_SCHEMA": "ExternalReference.1",
+                                "metadata": {
+                                    "relink_required": true,
+                                    "source_kind": "user supplied Ece narration only"
+                                },
+                                "name": "",
+                                "available_range": {
+                                    "OTIO_SCHEMA": "TimeRange.1",
+                                    "duration": {
+                                        "OTIO_SCHEMA": "RationalTime.1",
+                                        "rate": 48000.0,
+                                        "value": 7448016.0
+                                    },
+                                    "start_time": {
+                                        "OTIO_SCHEMA": "RationalTime.1",
+                                        "rate": 48000.0,
+                                        "value": 0.0
+                                    }
+                                },
+                                "available_image_bounds": null,
+                                "target_url": "USER_NARRATION_WAV_RELINK_REQUIRED.wav"
+                            }
+                        },
+                        "active_media_reference_key": "DEFAULT_MEDIA"
+                    }
+                ],
+                "kind": "Audio"
+            }
+        ]
+    }
+}

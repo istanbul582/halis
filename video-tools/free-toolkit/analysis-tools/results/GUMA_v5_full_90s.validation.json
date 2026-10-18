@@ -1,0 +1,17 @@
+{
+  "opentimelineio_version": "0.17.0",
+  "original_json_sha256": "eeb799ebe285cbcbedf330f34bae928d37b70c29002e1300423db6d8230df2b4",
+  "timeline": "GUMA_v5_full_90s.otio",
+  "duration_seconds": 90.0,
+  "audio_clip_count": 9,
+  "audio_transition_count": 8,
+  "visual_placeholder_count": 9,
+  "audio_time_rate": 48000,
+  "voice_target_url": "USER_NARRATION_WAV_RELINK_REQUIRED.wav",
+  "raw_media_embedded": false,
+  "roundtrip_name_source_ranges_timeline_positions": "PASS",
+  "exact_duration_audio_visual_tracks": "PASS",
+  "local_original_audio_path_absent": "PASS",
+  "editor_import_tested": false,
+  "import_note": "OTIO schema and roundtrip tested; no Premiere/Resolve/Kdenlive import claim. Relink narration in your editor; transition support varies."
+}

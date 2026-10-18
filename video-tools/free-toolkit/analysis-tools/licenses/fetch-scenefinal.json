@@ -1,0 +1,23 @@
+[
+  {
+    "name": "PySceneDetect-LICENSE",
+    "url": "https://raw.githubusercontent.com/Breakthrough/PySceneDetect/main/LICENSE",
+    "status": 200,
+    "bytes": 1505,
+    "preview": "BSD 3-Clause License\n\nCopyright (C) 2014, Brandon Castellano\n\nRedistribution and use in source and binary forms, with or without\nmodification, are permitted provided that the follo"
+  },
+  {
+    "name": "PySceneDetect-README",
+    "url": "https://raw.githubusercontent.com/Breakthrough/PySceneDetect/main/README.md",
+    "status": 200,
+    "bytes": 6813,
+    "preview": "\n<picture>\n  <source media=\"(prefers-color-scheme: dark)\" srcset=\"https://raw.githubusercontent.com/Breakthrough/PySceneDetect/main/website/pages/img/pyscenedetect_logo_small_darkm"
+  },
+  {
+    "name": "PySceneDetect-STABLE-LICENSE",
+    "url": "https://raw.githubusercontent.com/Breakthrough/PySceneDetect/v0.6/LICENSE",
+    "status": 200,
+    "bytes": 4807,
+    "preview": "By downloading, copying, installing, or using this software, you agree\nto the terms of this license, and those contained in the \"Ancillary\nSoftware Licenses\" section below. If you "
+  }
+]

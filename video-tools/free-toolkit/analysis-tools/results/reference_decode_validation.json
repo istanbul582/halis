@@ -1,0 +1,12 @@
+{
+  "method": "ffprobe stream-level duration/nb_frames cross-check against three actual PySceneDetect runs",
+  "ffprobe_video_duration_seconds": 77.4,
+  "ffprobe_video_frame_count": 2322,
+  "ffprobe_video_frame_rate": "30/1",
+  "ffprobe_audio_and_container_duration_seconds": 77.524,
+  "scenedetect_processed_frames_each_threshold": 2322,
+  "scenedetect_video_coverage_seconds_each_threshold": 77.4,
+  "video_frame_count_and_duration_match": "PASS",
+  "all_scene_ranges_contiguous_and_nonoverlapping": "PASS",
+  "reference_media_exported": false
+}

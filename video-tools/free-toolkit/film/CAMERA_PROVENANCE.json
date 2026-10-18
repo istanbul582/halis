@@ -1,0 +1,40 @@
+{
+  "scene": "Original authored Blender furniture model exported as GLB, animated in Three.js / React Three Fiber",
+  "source": "/workspace/guma-video/toolkit-v5/runtime-generated-bake/out/production-540-lowfps.mp4",
+  "source_sha256": "6d94c2e26158a9ca22c2d0e8920e6c747bf9ff8b573f638967642f87a98f4b66",
+  "source_video": {
+    "width": 540,
+    "height": 960,
+    "fps": 3,
+    "frames": 30,
+    "duration_seconds": 10
+  },
+  "source_scene_time_seconds": [
+    31.81,
+    45.99
+  ],
+  "film_placement_seconds": [
+    31.81,
+    46.02
+  ],
+  "output_preparation": "setpts=1.421*(PTS-STARTPTS), motion compensated frame interpolation to 30fps, Lanczos upscale to 720x1280, clone final frame pad, trim 14.233333s",
+  "interpolation_note": "Actual 3D perspective keyframes with generated intermediate frames; not every final frame independently rendered at 1080p.",
+  "visual_label": "Temsili 3D canlandırma · Özgün model ve gerçek perspektif kamera",
+  "meaning": "Illustrative generic furniture construction. Not a real GUMA or Saloni product, factory, personnel, manufacturing method or proprietary design.",
+  "source_code": {
+    "stage": "../runtime-generated-bake/src/Stage.tsx",
+    "composition": "../runtime-generated-bake/src/index.tsx",
+    "render_command": "node render.mjs",
+    "prepare_command": "bash prepare-camera.sh"
+  },
+  "output_video": {
+    "width": 720,
+    "height": 1280,
+    "fps": 30,
+    "frames": 427,
+    "duration_seconds": 14.233333,
+    "bytes": 1778453,
+    "sha256": "7f9aef107eb889d5c361a527f0df94dfebcd3de1f2d3e53157a126af80bf0aaf"
+  },
+  "final_hold_note": "Minterpolate EOF yielded 13.3s of interpolated video. A separate final-frame hold extends this to 14.233333s, avoiding a missing source during the 14.21s film section."
+}

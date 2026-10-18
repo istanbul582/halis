@@ -1,0 +1,40 @@
+[
+  {
+    "name": "blender-gpl",
+    "url": "https://raw.githubusercontent.com/blender/blender/main/doc/license/GPL-license.txt",
+    "status": 200,
+    "bytes": 17992,
+    "preview": "\t\t    GNU GENERAL PUBLIC LICENSE\n\t\t       Version 2, June 1991\n\n Copyright (C) 1989, 1991 Free Software Foundation, Inc.\n 59 Temple Place, Suite 330, Boston, MA  02111-1307  USA\n Everyone is permitted"
+  },
+  {
+    "name": "blender-license-page",
+    "url": "https://www.blender.org/about/license/",
+    "error": "<urlopen error Tunnel connection failed: 403 Forbidden>"
+  },
+  {
+    "name": "flux-github-readme",
+    "url": "https://raw.githubusercontent.com/black-forest-labs/flux/main/README.md",
+    "status": 200,
+    "bytes": 6722,
+    "preview": "# FLUX\nby Black Forest Labs: https://bfl.ai.\n\nDocumentation for our API can be found here: [docs.bfl.ai](https://docs.bfl.ai/).\n\n![grid](assets/grid.jpg)\n\nThis repo contains minimal inference code to "
+  },
+  {
+    "name": "flux-github-license",
+    "url": "https://raw.githubusercontent.com/black-forest-labs/flux/main/LICENSE",
+    "status": 200,
+    "bytes": 11357,
+    "preview": "                                 Apache License\n                           Version 2.0, January 2004\n                        http://www.apache.org/licenses/\n\n   TERMS AND CONDITIONS FOR USE, REPRODUCT"
+  },
+  {
+    "name": "comfy-project",
+    "url": "https://raw.githubusercontent.com/Comfy-Org/ComfyUI/master/pyproject.toml",
+    "status": 200,
+    "bytes": 2017,
+    "preview": "[project]\nname = \"ComfyUI\"\nversion = \"0.41.0\"\nreadme = \"README.md\"\nlicense = { file = \"LICENSE\" }\nrequires-python = \">=3.10\"\n\n[project.urls]\nhomepage = \"https://www.comfy.org/\"\nrepository = \"https://g"
+  },
+  {
+    "name": "motion-ai-license",
+    "url": "https://raw.githubusercontent.com/motiondivision/ai-kit/main/LICENSE",
+    "error": "HTTP Error 404: Not Found"
+  }
+]

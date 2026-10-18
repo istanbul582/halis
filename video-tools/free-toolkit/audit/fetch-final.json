@@ -1,0 +1,28 @@
+[
+  {
+    "name": "flux-schnell-model-license",
+    "url": "https://raw.githubusercontent.com/black-forest-labs/flux/main/model_licenses/LICENSE-FLUX1-schnell",
+    "status": 200,
+    "bytes": 9155,
+    "preview": "\n\nApache License\nVersion 2.0, January 2004\nhttp://www.apache.org/licenses/\n\nTERMS AND CONDITIONS FOR USE, REPRODUCTION, AND DISTRIBUTION\n\n1. Definitions.\n\n\"License\" shall mean the "
+  },
+  {
+    "name": "blender-gpl3",
+    "url": "https://raw.githubusercontent.com/blender/blender/main/doc/license/GPL3-license.txt",
+    "status": 200,
+    "bytes": 35147,
+    "preview": "                    GNU GENERAL PUBLIC LICENSE\n                       Version 3, 29 June 2007\n\n Copyright (C) 2007 Free Software Foundation, Inc. <http://fsf.org/>\n Everyone is per"
+  },
+  {
+    "name": "motion-ai-license",
+    "url": "https://raw.githubusercontent.com/motiondivision/ai-kit/main/LICENSE.md",
+    "error": "HTTP Error 404: Not Found"
+  },
+  {
+    "name": "motion-ai-readme",
+    "url": "https://raw.githubusercontent.com/motiondivision/ai-kit/main/README.md",
+    "status": 200,
+    "bytes": 3018,
+    "preview": "<p align=\"center\">\n  <img src=\"plugins/motion/assets/ai-kit-card.png\" alt=\"Motion AI Kit: context, MotionScore for Agents, and CSS springs for coding agents\" width=\"100%\">\n</p>\n\n# "
+  }
+]

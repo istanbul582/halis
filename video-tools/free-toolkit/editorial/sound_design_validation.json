@@ -1,0 +1,27 @@
+{
+  "premaster": {
+    "input_i": "-12.94",
+    "input_tp": "-0.97",
+    "input_lra": "3.30",
+    "input_thresh": "-23.67"
+  },
+  "mixed_audio": {
+    "input_i": "-16.00",
+    "input_tp": "-4.03",
+    "input_lra": "3.40",
+    "input_thresh": "-26.73"
+  },
+  "sfx_only": {
+    "input_i": "-32.95",
+    "input_tp": "-13.66",
+    "input_lra": "8.30",
+    "input_thresh": "-43.28"
+  },
+  "duration": 99.0,
+  "sample_rate": 48000,
+  "channels": 2,
+  "codec": "pcm_s24le",
+  "decode": "FFmpeg complete decode passed during loudness verification",
+  "target_passed": true,
+  "rights_note": "Only original procedurally synthesized score/SFX plus user supplied Ece narration; no external music recordings, samples or brand/reference source audio."
+}

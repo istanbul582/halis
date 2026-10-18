@@ -1,0 +1,74 @@
+[
+  {
+    "start": 0.13,
+    "end": 4.28,
+    "text": "“Dayım Haluk Özbek, Guma’nın doğuş hikayesinde önemli bir paya sahip.”",
+    "scene_id": "quote",
+    "source_start": 54.33,
+    "source_end": 58.48
+  },
+  {
+    "start": 4.585,
+    "end": 9.325,
+    "text": "Haluk Özbek, aynı haberde Saloni Mobilya Yönetim Kurulu Başkanı olarak tanıtılıyor.",
+    "scene_id": "role",
+    "source_start": 58.97,
+    "source_end": 63.71
+  },
+  {
+    "start": 9.6,
+    "end": 14.41,
+    "text": "Bayraktar, dayısının bilgileriyle mobilya sektörünü tanımalarını sağladığını anlatıyor.",
+    "scene_id": "support_scope",
+    "source_start": 64.11,
+    "source_end": 68.92
+  },
+  {
+    "start": 14.545,
+    "end": 17.405,
+    "text": "“Yaklaşık 50 bin lira sermayeyle başlayarak…”",
+    "scene_id": "budget_plan",
+    "source_start": 0.0,
+    "source_end": 2.86
+  },
+  {
+    "start": 17.645,
+    "end": 20.545,
+    "text": "GUMA’nın ilk videosunda açıklanan bütçe planı bu.",
+    "scene_id": "budget_plan",
+    "source_start": 3.1,
+    "source_end": 6.0
+  },
+  {
+    "start": 20.85,
+    "end": 27.78,
+    "text": "GUMA’nın kendi kullanım koşullarında, ürünlerin Saloni Mobilya tarafından üretildiği ve GUMA aracılığıyla satıldığı yazıyor.",
+    "scene_id": "production",
+    "source_start": 35.75,
+    "source_end": 42.68
+  },
+  {
+    "start": 28.17,
+    "end": 33.02,
+    "text": "Hatta şirket, Saloni için doğrudan “bünyesinde bulunduğu” ifadesini kullanıyor.",
+    "scene_id": "production",
+    "source_start": 43.07,
+    "source_end": 47.92
+  },
+  {
+    "start": 33.295,
+    "end": 34.425,
+    "text": "O yüzden sorum şu:",
+    "scene_id": "question",
+    "source_start": 147.69,
+    "source_end": 148.82
+  },
+  {
+    "start": 34.875,
+    "end": 39.055,
+    "text": "Aynı parayla başlayan iki insan, gerçekten aynı noktadan mı başlıyor?",
+    "scene_id": "question",
+    "source_start": 149.27,
+    "source_end": 153.45
+  }
+]

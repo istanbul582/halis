@@ -1,0 +1,37 @@
+{
+  "status": "three_distinct_pngs_passed",
+  "render_mode": "swangle",
+  "browser": "/usr/bin/chromium",
+  "frames": [
+    {
+      "frame": 0,
+      "width": 720,
+      "height": 1280,
+      "sha256": "2fdb645757f4d1ff7290186adfd82c4de2fd2bed78ffc1f7af1a648815210bab",
+      "path": "out/camera-0.png"
+    },
+    {
+      "frame": 29,
+      "width": 720,
+      "height": 1280,
+      "sha256": "fce5245501cb1e6595610906972d9c0a1d84398dabe08e4d46c2123958b6bcc8",
+      "path": "out/camera-29.png"
+    },
+    {
+      "frame": 59,
+      "width": 720,
+      "height": 1280,
+      "sha256": "4236a1674cf34ed05d893752c2f52511d14ce55617e06fd2c98d3f8be7b655b5",
+      "path": "out/camera-59.png"
+    }
+  ],
+  "middle_image_mean_absolute_rgb_difference": [
+    49.65631150793651,
+    34.0499126984127,
+    20.796424603174604
+  ],
+  "npm_audit_vulnerabilities": 0,
+  "note": "Perspective camera transforms depend on frame; this is a technical proof, not final film art.",
+  "optional_mp4_test": "Stopped after three PNGs passed to leave CPU for main film; no camera-test MP4 delivered.",
+  "setup_clean_copy": "setup.sh passed with npm ci in /workspace/guma-video/toolkit-v5/runtime-setup-check; shared runtime node_modules not changed."
+}

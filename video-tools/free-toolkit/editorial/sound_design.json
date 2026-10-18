@@ -1,0 +1,84 @@
+{
+  "duration": 99.0,
+  "sample_rate": 48000,
+  "channels": 2,
+  "bpm": 100,
+  "creation": "Original procedural NumPy/SciPy oscillators, seeded noise and filtering; no external recordings, samples or reference audio.",
+  "narrator": "User supplied Ece narration, edited in GUMA_v5_full_90s.wav; only the first 90 seconds contain speech.",
+  "rights": "Generated instrumental/effects layers are original task outputs. User supplied narration retains its existing rights and is not covered by this statement.",
+  "ducking": "RMS-driven music gain 0.32–1.0, smoothed at 140ms; music fades at film tail.",
+  "layer_gain_after_first_measurement": "4.5x (+13.06 dB); first sparse bed measured too faint at -46 LUFS before final mastering.",
+  "events": [
+    {
+      "time": 14.855,
+      "type": "short airy reverse + restrained wood accent",
+      "purpose": "meaningful section transition"
+    },
+    {
+      "time": 21.01,
+      "type": "short airy reverse + restrained wood accent",
+      "purpose": "meaningful section transition"
+    },
+    {
+      "time": 25.775,
+      "type": "short airy reverse + restrained wood accent",
+      "purpose": "meaningful section transition"
+    },
+    {
+      "time": 31.81,
+      "type": "short airy reverse + restrained wood accent",
+      "purpose": "meaningful section transition"
+    },
+    {
+      "time": 45.995,
+      "type": "short airy reverse + restrained wood accent",
+      "purpose": "meaningful section transition"
+    },
+    {
+      "time": 59.72,
+      "type": "short airy reverse + restrained wood accent",
+      "purpose": "meaningful section transition"
+    },
+    {
+      "time": 70.325,
+      "type": "short airy reverse + restrained wood accent",
+      "purpose": "meaningful section transition"
+    },
+    {
+      "time": 82.45,
+      "type": "short airy reverse + restrained wood accent",
+      "purpose": "meaningful section transition"
+    },
+    {
+      "time": 0.13,
+      "type": "quiet original wood accent",
+      "purpose": "opening quote and role reveal"
+    },
+    {
+      "time": 4.77,
+      "type": "quiet original wood accent",
+      "purpose": "opening quote and role reveal"
+    },
+    {
+      "time": 90.0,
+      "type": "short original harmonic accent",
+      "purpose": "source card / follow animation"
+    },
+    {
+      "time": 96.0,
+      "type": "short original harmonic accent",
+      "purpose": "source card / follow animation"
+    },
+    {
+      "time": 96.15,
+      "type": "short original harmonic accent",
+      "purpose": "source card / follow animation"
+    }
+  ],
+  "sample_peaks_dbfs": {
+    "score": -17.561,
+    "effects": -14.112,
+    "sfx_only": -13.764,
+    "premaster": -1.008
+  }
+}

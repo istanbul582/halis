@@ -1,0 +1,31 @@
+{
+  "audit_date": "2026-10-18",
+  "scope": "Official license and capability audit; not an installation manifest",
+  "recommended": [
+    {"name":"three","repository":"https://github.com/mrdoob/three.js","license":"MIT","license_url":"https://github.com/mrdoob/three.js/blob/dev/LICENSE","purpose":"3D camera, lights, geometry and materials","license_verified":true},
+    {"name":"@react-three/fiber","repository":"https://github.com/pmndrs/react-three-fiber","license":"MIT","license_url":"https://github.com/pmndrs/react-three-fiber/blob/master/LICENSE","purpose":"React scene composition","license_verified":true},
+    {"name":"@react-three/drei","repository":"https://github.com/pmndrs/drei","license":"MIT","license_url":"https://github.com/pmndrs/drei/blob/master/LICENSE","purpose":"Camera, scene and text helpers","license_verified":true},
+    {"name":"motion","repository":"https://github.com/motiondivision/motion","license":"MIT","license_url":"https://github.com/motiondivision/motion/blob/main/LICENSE.md","purpose":"2D animation primitives; exclude paid Motion+","license_verified":true},
+    {"name":"@tabler/icons-react","repository":"https://github.com/tabler/tabler-icons","license":"MIT","license_url":"https://github.com/tabler/tabler-icons/blob/main/LICENSE","purpose":"Consistent SVG icons","license_verified":true},
+    {"name":"Blender","repository":"https://github.com/blender/blender","license":"GPL-3.0 as a whole; individual files may differ","license_url":"https://github.com/blender/blender/blob/main/README.md#license","purpose":"Original 3D asset and material generation","license_verified":true,"installed_binary":"/usr/bin/blender"}
+  ],
+  "optional_not_needed_now": [
+    {"name":"PixiJS","license":"MIT","license_url":"https://github.com/pixijs/pixijs/blob/dev/LICENSE","reason":"Overlaps existing 2D/3D renderer unless a concrete particle scene needs it"},
+    {"name":"Lucide","license":"ISC plus retained MIT for Feather-derived icons","license_url":"https://github.com/lucide-icons/lucide/blob/main/LICENSE","reason":"Use one icon family, Tabler, consistently"}
+  ],
+  "ai_image_generation": {
+    "comfyui":{"software_license":"GPL-3.0","license_url":"https://github.com/Comfy-Org/ComfyUI/blob/master/LICENSE","installed_by_this_audit":false},
+    "flux_schnell":{"weights_license":"Apache-2.0","license_url":"https://github.com/black-forest-labs/flux/blob/main/model_licenses/LICENSE-FLUX1-schnell","license_verified":true,"downloaded":false},
+    "do_not_substitute":"FLUX dev, Fill dev, Kontext dev and other dev weights have separate non-commercial licensing",
+    "hardware_result":"No nvidia-smi; no default Python torch; 32 GiB cgroup memory; 4 CPU quota. Large CPU-only model generation is not a productive route for this edit."
+  },
+  "remotion":{
+    "license":"Special Remotion License, not MIT",
+    "license_url":"https://github.com/remotion-dev/remotion/blob/main/LICENSE.md",
+    "free_eligibility":"Individuals; for-profit organizations up to 3 employees; nonprofits; noncommercial evaluation",
+    "commercial_video_creation":"Allowed for free-eligible entities",
+    "company_license":"Required outside free eligibility"
+  },
+  "render_requirement":"All offline animation, camera position and effects must use deterministic frame time. Do not rely on independent real-time Motion/Three loops.",
+  "asset_rights":"Software licenses do not license photographs, stock video, fonts, third-party models, trademarks or likenesses."
+}

@@ -1,0 +1,32 @@
+[
+  {
+    "package": "scenedetect",
+    "version": "0.6.7.1",
+    "source_in_package": "scenedetect-0.6.7.1.dist-info/licenses/LICENSE",
+    "copied_to": "installed-scenedetect-LICENSE"
+  },
+  {
+    "package": "opentimelineio",
+    "version": "0.17.0",
+    "source_in_package": "OpenTimelineIO-0.17.0.dist-info/LICENSE.txt",
+    "copied_to": "installed-opentimelineio-LICENSE.txt"
+  },
+  {
+    "package": "opencv-python-headless",
+    "version": "4.12.0.88",
+    "source_in_package": "opencv_python_headless-4.12.0.88.dist-info/LICENSE-3RD-PARTY.txt",
+    "copied_to": "installed-opencv-python-headless-LICENSE-3RD-PARTY.txt"
+  },
+  {
+    "package": "opencv-python-headless",
+    "version": "4.12.0.88",
+    "source_in_package": "opencv_python_headless-4.12.0.88.dist-info/LICENSE.txt",
+    "copied_to": "installed-opencv-python-headless-LICENSE.txt"
+  },
+  {
+    "package": "scipy",
+    "version": "1.17.0",
+    "source_in_package": "scipy-1.17.0.dist-info/LICENSE.txt",
+    "copied_to": "installed-scipy-LICENSE.txt"
+  }
+]

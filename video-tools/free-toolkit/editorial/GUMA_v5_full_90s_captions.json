@@ -1,0 +1,370 @@
+[
+  {
+    "start": 0.13,
+    "end": 1.278,
+    "text": "“Dayım Haluk Özbek,",
+    "scene_id": "family_and_context",
+    "source_start": 54.33,
+    "source_end": 55.478
+  },
+  {
+    "start": 1.278,
+    "end": 2.88,
+    "text": "Guma’nın doğuş hikayesinde",
+    "scene_id": "family_and_context",
+    "source_start": 55.478,
+    "source_end": 57.08
+  },
+  {
+    "start": 2.88,
+    "end": 4.28,
+    "text": "önemli bir paya sahip.”",
+    "scene_id": "family_and_context",
+    "source_start": 57.08,
+    "source_end": 58.48
+  },
+  {
+    "start": 4.77,
+    "end": 6.234,
+    "text": "Haluk Özbek, aynı haberde",
+    "scene_id": "family_and_context",
+    "source_start": 58.97,
+    "source_end": 60.434
+  },
+  {
+    "start": 6.234,
+    "end": 8.438,
+    "text": "Saloni Mobilya\nYönetim Kurulu Başkanı",
+    "scene_id": "family_and_context",
+    "source_start": 60.434,
+    "source_end": 62.638
+  },
+  {
+    "start": 8.438,
+    "end": 9.51,
+    "text": "olarak tanıtılıyor.",
+    "scene_id": "family_and_context",
+    "source_start": 62.638,
+    "source_end": 63.71
+  },
+  {
+    "start": 9.91,
+    "end": 11.752,
+    "text": "Bayraktar, dayısının bilgileriyle",
+    "scene_id": "family_and_context",
+    "source_start": 64.11,
+    "source_end": 65.952
+  },
+  {
+    "start": 11.752,
+    "end": 13.491,
+    "text": "mobilya sektörünü tanımalarını",
+    "scene_id": "family_and_context",
+    "source_start": 65.952,
+    "source_end": 67.691
+  },
+  {
+    "start": 13.491,
+    "end": 14.72,
+    "text": "sağladığını anlatıyor.",
+    "scene_id": "family_and_context",
+    "source_start": 67.691,
+    "source_end": 68.92
+  },
+  {
+    "start": 14.855,
+    "end": 16.276,
+    "text": "“Yaklaşık 50 bin lira",
+    "scene_id": "budget_plan",
+    "source_start": 0.0,
+    "source_end": 1.421
+  },
+  {
+    "start": 16.276,
+    "end": 17.715,
+    "text": "sermayeyle başlayarak…”",
+    "scene_id": "budget_plan",
+    "source_start": 1.421,
+    "source_end": 2.86
+  },
+  {
+    "start": 17.955,
+    "end": 19.932,
+    "text": "GUMA’nın ilk videosunda açıklanan",
+    "scene_id": "budget_plan",
+    "source_start": 3.1,
+    "source_end": 5.077
+  },
+  {
+    "start": 19.932,
+    "end": 20.855,
+    "text": "bütçe planı bu.",
+    "scene_id": "budget_plan",
+    "source_start": 5.077,
+    "source_end": 6.0
+  },
+  {
+    "start": 21.14,
+    "end": 22.58,
+    "text": "Videoyu anlatan kurucu,",
+    "scene_id": "previous_audience",
+    "source_start": 12.18,
+    "source_end": 13.62
+  },
+  {
+    "start": 22.58,
+    "end": 24.386,
+    "text": "daha önce 130 bin takipçiye",
+    "scene_id": "previous_audience",
+    "source_start": 13.62,
+    "source_end": 15.426
+  },
+  {
+    "start": 24.386,
+    "end": 25.64,
+    "text": "ulaştığını söylüyor.",
+    "scene_id": "previous_audience",
+    "source_start": 15.426,
+    "source_end": 16.68
+  },
+  {
+    "start": 25.895,
+    "end": 28.635,
+    "text": "Yani markalaşma hikâyesini\ndeğerlendirirken",
+    "scene_id": "budget_question",
+    "source_start": 17.02,
+    "source_end": 19.76
+  },
+  {
+    "start": 28.635,
+    "end": 30.497,
+    "text": "yalnızca başlangıç bütçesine",
+    "scene_id": "budget_question",
+    "source_start": 19.76,
+    "source_end": 21.622
+  },
+  {
+    "start": 30.497,
+    "end": 31.675,
+    "text": "bakmak yeterli mi?",
+    "scene_id": "budget_question",
+    "source_start": 21.622,
+    "source_end": 22.8
+  },
+  {
+    "start": 31.95,
+    "end": 33.33,
+    "text": "Bir de üretim tarafı var.",
+    "scene_id": "production",
+    "source_start": 34.01,
+    "source_end": 35.39
+  },
+  {
+    "start": 33.69,
+    "end": 35.737,
+    "text": "GUMA’nın kendi\nkullanım koşullarında,",
+    "scene_id": "production",
+    "source_start": 35.75,
+    "source_end": 37.797
+  },
+  {
+    "start": 35.737,
+    "end": 38.41,
+    "text": "ürünlerin Saloni Mobilya\ntarafından üretildiği",
+    "scene_id": "production",
+    "source_start": 37.797,
+    "source_end": 40.47
+  },
+  {
+    "start": 38.41,
+    "end": 40.62,
+    "text": "ve GUMA aracılığıyla\nsatıldığı yazıyor.",
+    "scene_id": "production",
+    "source_start": 40.47,
+    "source_end": 42.68
+  },
+  {
+    "start": 41.01,
+    "end": 43.223,
+    "text": "Hatta şirket, Saloni için doğrudan",
+    "scene_id": "production",
+    "source_start": 43.07,
+    "source_end": 45.283
+  },
+  {
+    "start": 43.223,
+    "end": 45.86,
+    "text": "“bünyesinde bulunduğu”\nifadesini kullanıyor.",
+    "scene_id": "production",
+    "source_start": 45.283,
+    "source_end": 47.92
+  },
+  {
+    "start": 46.135,
+    "end": 48.445,
+    "text": "Bir marka kurarken\nüreticiyi bulmak,",
+    "scene_id": "actual_work",
+    "source_start": 91.09,
+    "source_end": 93.4
+  },
+  {
+    "start": 48.445,
+    "end": 50.838,
+    "text": "numuneyi hazırlatmak,\nmalzemeyi seçmek,",
+    "scene_id": "actual_work",
+    "source_start": 93.4,
+    "source_end": 95.793
+  },
+  {
+    "start": 50.838,
+    "end": 51.992,
+    "text": "ürünü tanıtmak ve",
+    "scene_id": "actual_work",
+    "source_start": 95.793,
+    "source_end": 96.947
+  },
+  {
+    "start": 51.992,
+    "end": 54.025,
+    "text": "ilk müşteriye ulaşmak gerekiyor.",
+    "scene_id": "actual_work",
+    "source_start": 96.947,
+    "source_end": 98.98
+  },
+  {
+    "start": 54.455,
+    "end": 56.237,
+    "text": "Başlangıç koşullarını konuşmak,",
+    "scene_id": "actual_work",
+    "source_start": 99.41,
+    "source_end": 101.192
+  },
+  {
+    "start": 56.237,
+    "end": 58.698,
+    "text": "bu işlerin hangilerini\nnasıl çözebildiğini",
+    "scene_id": "actual_work",
+    "source_start": 101.192,
+    "source_end": 103.653
+  },
+  {
+    "start": 58.698,
+    "end": 59.585,
+    "text": "konuşmak demek.",
+    "scene_id": "actual_work",
+    "source_start": 103.653,
+    "source_end": 104.54
+  },
+  {
+    "start": 59.86,
+    "end": 63.167,
+    "text": "GUMA örneğinde tasarım ve\npazarlama emeğiyle birlikte,",
+    "scene_id": "work_and_access",
+    "source_start": 104.96,
+    "source_end": 108.267
+  },
+  {
+    "start": 63.167,
+    "end": 65.4,
+    "text": "açıklanan bu ilişkileri\nde görüyoruz.",
+    "scene_id": "work_and_access",
+    "source_start": 108.267,
+    "source_end": 110.5
+  },
+  {
+    "start": 65.82,
+    "end": 67.441,
+    "text": "Hikâyeyi öğretici yapan şey,",
+    "scene_id": "work_and_access",
+    "source_start": 110.92,
+    "source_end": 112.541
+  },
+  {
+    "start": 67.441,
+    "end": 70.18,
+    "text": "bunların nasıl bir araya\ngeldiğini anlayabilmek.",
+    "scene_id": "work_and_access",
+    "source_start": 112.541,
+    "source_end": 115.28
+  },
+  {
+    "start": 70.485,
+    "end": 72.425,
+    "text": "O bütçeyle hangi işleri yaptılar?",
+    "scene_id": "viewer_questions",
+    "source_start": 122.51,
+    "source_end": 124.45
+  },
+  {
+    "start": 72.705,
+    "end": 74.625,
+    "text": "Hangi imkânlara erişebiliyorlardı?",
+    "scene_id": "viewer_questions",
+    "source_start": 124.73,
+    "source_end": 126.65
+  },
+  {
+    "start": 74.995,
+    "end": 76.432,
+    "text": "Sen aynı işe başlasan,",
+    "scene_id": "viewer_questions",
+    "source_start": 127.02,
+    "source_end": 128.457
+  },
+  {
+    "start": 76.432,
+    "end": 78.445,
+    "text": "ayrıca neleri kurman gerekecek?",
+    "scene_id": "viewer_questions",
+    "source_start": 128.457,
+    "source_end": 130.47
+  },
+  {
+    "start": 78.875,
+    "end": 80.142,
+    "text": "İşte başlangıç rakamı,",
+    "scene_id": "viewer_questions",
+    "source_start": 130.9,
+    "source_end": 132.167
+  },
+  {
+    "start": 80.142,
+    "end": 82.305,
+    "text": "bu sorularla birlikte\nanlam kazanıyor.",
+    "scene_id": "viewer_questions",
+    "source_start": 132.167,
+    "source_end": 134.33
+  },
+  {
+    "start": 82.59,
+    "end": 83.72,
+    "text": "O yüzden sorum şu:",
+    "scene_id": "final_question",
+    "source_start": 147.69,
+    "source_end": 148.82
+  },
+  {
+    "start": 84.17,
+    "end": 86.154,
+    "text": "Aynı parayla başlayan iki insan,",
+    "scene_id": "final_question",
+    "source_start": 149.27,
+    "source_end": 151.254
+  },
+  {
+    "start": 86.154,
+    "end": 88.35,
+    "text": "gerçekten aynı\nnoktadan mı başlıyor?",
+    "scene_id": "final_question",
+    "source_start": 151.254,
+    "source_end": 153.45
+  },
+  {
+    "start": 88.77,
+    "end": 89.84,
+    "text": "Yorumlarda buluşalım.",
+    "scene_id": "final_question",
+    "source_start": 153.87,
+    "source_end": 154.94
+  }
+]

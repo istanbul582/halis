@@ -1,0 +1,68 @@
+[
+  {
+    "name": "@react-three/drei",
+    "version": "10.7.9",
+    "license": "MIT",
+    "repository": "git+https://github.com/pmndrs/drei.git"
+  },
+  {
+    "name": "@react-three/fiber",
+    "version": "9.8.2",
+    "license": "MIT",
+    "repository": "git+https://github.com/pmndrs/react-three-fiber.git"
+  },
+  {
+    "name": "@remotion/bundler",
+    "version": "4.0.536",
+    "license": "SEE LICENSE IN LICENSE.md",
+    "repository": "https://github.com/remotion-dev/remotion/tree/main/packages/bundler"
+  },
+  {
+    "name": "@remotion/renderer",
+    "version": "4.0.536",
+    "license": "SEE LICENSE IN LICENSE.md",
+    "repository": "https://github.com/remotion-dev/remotion/tree/main/packages/renderer"
+  },
+  {
+    "name": "@remotion/three",
+    "version": "4.0.536",
+    "license": "MIT",
+    "repository": "https://github.com/remotion-dev/remotion/tree/main/packages/three"
+  },
+  {
+    "name": "@tabler/icons-react",
+    "version": "3.49.0",
+    "license": "MIT",
+    "repository": "git+https://github.com/tabler/tabler-icons.git"
+  },
+  {
+    "name": "motion",
+    "version": "14.3.0",
+    "license": "MIT",
+    "repository": "https://github.com/motiondivision/motion"
+  },
+  {
+    "name": "react",
+    "version": "19.3.1",
+    "license": "MIT",
+    "repository": "https://github.com/react/react.git"
+  },
+  {
+    "name": "react-dom",
+    "version": "19.3.1",
+    "license": "MIT",
+    "repository": "https://github.com/react/react.git"
+  },
+  {
+    "name": "remotion",
+    "version": "4.0.536",
+    "license": "SEE LICENSE IN LICENSE.md",
+    "repository": "https://github.com/remotion-dev/remotion/tree/main/packages/core"
+  },
+  {
+    "name": "three",
+    "version": "0.186.1",
+    "license": "MIT",
+    "repository": "https://github.com/mrdoob/three.js"
+  }
+]

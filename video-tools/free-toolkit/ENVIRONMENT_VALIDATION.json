@@ -1,0 +1,19 @@
+{
+  "checked_at_utc": "2026-10-18T01:55:45.542717+00:00",
+  "node_setup": "Passed in clean isolated copy and committed checkout; npm ci with pinned lock",
+  "python_setup": "Passed in committed checkout; pip check and scipy.signal/cv2/scenedetect/OTIO imports passed",
+  "real_camera": "Three distinct perspective PNGs plus actual GLB camera/structure scene in full film",
+  "npm_audit_vulnerabilities": 0,
+  "local_AI_models_installed": false,
+  "large_model_weights_downloaded": false,
+  "environment_draft": {
+    "install_script": "saved",
+    "start_skill": "saved",
+    "requires_publish": true,
+    "runtime_script_executed": true,
+    "new_task_restore_tested": false
+  },
+  "private_media_publication": "Raw narration and raw Pexels/reference/source clips excluded from Git source package",
+  "notes": "No paid API or Motion+ configured. Remotion free eligibility is conditional.",
+  "film_dependency_link_test": "Passed from missing link state using exact saved installer block; resolves to ../runtime/node_modules"
+}

@@ -1,0 +1,25 @@
+{
+  "name": "guma-free-motion-toolkit",
+  "private": true,
+  "version": "1.0.0",
+  "description": "Local free motion and real 3D camera proof; no paid API",
+  "type": "module",
+  "scripts": {
+    "proof": "node render.mjs",
+    "proof:stills": "node render.mjs --stills",
+    "audit:licenses": "node scripts/licenses.mjs"
+  },
+  "dependencies": {
+    "@react-three/drei": "10.7.9",
+    "@react-three/fiber": "9.8.2",
+    "@remotion/bundler": "4.0.536",
+    "@remotion/renderer": "4.0.536",
+    "@remotion/three": "4.0.536",
+    "@tabler/icons-react": "3.49.0",
+    "motion": "14.3.0",
+    "react": "19.3.1",
+    "react-dom": "19.3.1",
+    "remotion": "4.0.536",
+    "three": "0.186.1"
+  }
+}

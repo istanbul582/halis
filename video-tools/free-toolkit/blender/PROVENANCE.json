@@ -1,0 +1,13 @@
+{
+  "creator": "Original procedural scene made in Blender for this video",
+  "assets": "All geometry, materials, lights and camera authored in create_scene.py. No downloaded model, texture, brand mark or source video frame.",
+  "meaning": "Illustrative furniture production and assembly, not an actual GUMA or Saloni product or facility.",
+  "software": "Blender 4.3.2, GNU GPL",
+  "render": {
+    "blend_default": "720x1280,30fps,Eevee32samples; CPU fallback too slow so full animation not rendered in Eevee",
+    "quick_hero": "360x640,CyclesCPU12samples,3bounces,noOpenImageDenoise",
+    "hero_main": "720x1280,CyclesCPU48samples,6bounces,noOpenImageDenoise",
+    "realtime": "Animated GLB can be rendered with Three.js/Remotion using gl:swangle on system Chromium"
+  },
+  "textures": "oak_basecolor/normal andvelvet_basecolor/normalPNG512² original deterministic procedural maps made by make_webgl_textures.py(seed582), not external photos"
+}

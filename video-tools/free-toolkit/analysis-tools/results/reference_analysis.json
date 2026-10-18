@@ -1,0 +1,75 @@
+{
+  "source_basename": "WhatsApp Video 2026-10-17 at 18.19.44.mp4",
+  "source_sha256": "1da046bebed02540c083fcc0ee1509ee8a71533fb957c054cabdeabbf699121f",
+  "software": {
+    "scenedetect": "0.6.7.1",
+    "opencv-python-headless": "4.12.0.88"
+  },
+  "detector": "PySceneDetect ContentDetector (default HSV weights; not adaptive)",
+  "min_scene_frames": 12,
+  "downscale_factor": 3,
+  "frame_skip": 0,
+  "primary_threshold": 27.0,
+  "limitations": [
+    "Cuts are algorithmic candidates, not a manual shot list.",
+    "Large animated text, flashes and camera motion may be detected as cuts.",
+    "Dissolves and layered graphic changes may be missed or split differently.",
+    "No reference frames, audio or clips are exported by this script."
+  ],
+  "runs": [
+    {
+      "threshold": 27.0,
+      "frame_rate": 30.0,
+      "frame_size": [
+        720,
+        1280
+      ],
+      "processed_frames": 2322,
+      "candidate_shot_count": 10,
+      "candidate_cut_count": 9,
+      "median_seconds": 5.6833,
+      "mean_seconds": 7.74,
+      "min_seconds": 2.233333,
+      "max_seconds": 24.2,
+      "coverage_seconds": 77.4,
+      "csv": "mavi_candidate_shots_t27.csv",
+      "contiguous_full_frame_coverage": true
+    },
+    {
+      "threshold": 22.0,
+      "frame_rate": 30.0,
+      "frame_size": [
+        720,
+        1280
+      ],
+      "processed_frames": 2322,
+      "candidate_shot_count": 11,
+      "candidate_cut_count": 10,
+      "median_seconds": 5.4333,
+      "mean_seconds": 7.0364,
+      "min_seconds": 2.233333,
+      "max_seconds": 20.233333,
+      "coverage_seconds": 77.4,
+      "csv": "mavi_candidate_shots_t22.csv",
+      "contiguous_full_frame_coverage": true
+    },
+    {
+      "threshold": 32.0,
+      "frame_rate": 30.0,
+      "frame_size": [
+        720,
+        1280
+      ],
+      "processed_frames": 2322,
+      "candidate_shot_count": 9,
+      "candidate_cut_count": 8,
+      "median_seconds": 7.8333,
+      "mean_seconds": 8.6,
+      "min_seconds": 2.233333,
+      "max_seconds": 24.2,
+      "coverage_seconds": 77.4,
+      "csv": "mavi_candidate_shots_t32.csv",
+      "contiguous_full_frame_coverage": true
+    }
+  ]
+}
