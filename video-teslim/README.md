@@ -1,5 +1,19 @@
 # GUMA video teslimi
 
+## Yeni kurgu — 99 saniye
+
+- [Tam videoyu indir — 1080×1920 MP4](https://github.com/istanbul582/halis/raw/refs/heads/main/video-teslim/GUMA_yeni_kurgu_99s.mp4).
+- [Yeni kapak](GUMA_yeni_kapak.jpg).
+- [Ücretsiz araçlar, düzenlenebilir proje ve kaynak paketi](https://github.com/istanbul582/halis/raw/refs/heads/main/video-teslim/GUMA_ucretsiz_araclar_ve_proje.zip).
+- [Instagram açıklaması](GUMA_yeni_instagram_aciklama.txt).
+- [Araç seti ve kurulum belgeleri](../video-tools/free-toolkit/README.md).
+
+Anlatım, mevcut Ece kaydından tam cümlelerle 90 saniyeye yeniden kurgulandı. Video, gazetede aktarılan kurucu açıklamasıyla başlar; açılışta stok kullanılmaz. Üretim bölümünde gerçek perspektif kamerayla hazırlanmış temsili 3D iç yapı açılımı vardır. Özgün AI görselleri ve kısa temsili çalışma planları kendi kökenleriyle etiketlidir. Son 6 saniye kaynaklar, son 3 saniye özgün takip kapanışıdır.
+
+Ölçülen son dosya 99,008 saniye ve yaklaşık 18,4 MB. Baştan sona çözümleme, ses, mobil renk biçimi ve hızlı oynatma kontrolleri geçti. [Teknik doğrulama kaydı](../video-tools/free-toolkit/film/FINAL_VERIFICATION.json). ZIP içinde kapak ve Instagram açıklaması da bulunur.
+
+Kaynak kişinin gerçek sesi, kaynak GUMA videosunun görüntüsü ve WhatsApp örneklerinin görüntü/sesi kullanılmaz. Ham kullanıcı anlatımı ve ham Pexels dosyaları kaynak projeye eklenmez. Yazılım, görsel ve ses lisanslarının kapsamı kaynak paketinde ayrı ayrı belirtilir. Remotion'un ücretsiz kullanım koşulu lisansında tanımlıdır; yerel ComfyUI/FLUX kurulumu iddia edilmez.
+
 ## Remotion — Kot/Mavi referansına göre kısa stil denemesi
 
 - [17 saniyelik fotoğraf ağırlıklı denemeyi indir](https://github.com/istanbul582/halis/raw/refs/heads/main/video-teslim/GUMA_Remotion_Mavi_17s.mp4).

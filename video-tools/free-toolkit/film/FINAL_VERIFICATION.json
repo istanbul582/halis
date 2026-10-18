@@ -1,0 +1,70 @@
+{
+  "file": "/workspace/guma-video/toolkit-v5/film/out/GUMA_v5_full.mp4",
+  "bytes": 18415212,
+  "sha256": "b735a494a81059ad8ee57012b526a5ce21acfc2288d576955e0cd0d59e49de6d",
+  "duration": "99.008000",
+  "video": {
+    "codec_name": "h264",
+    "width": 1080,
+    "height": 1920,
+    "pix_fmt": "yuv420p",
+    "r_frame_rate": "30/1",
+    "nb_frames": "2970"
+  },
+  "audio": {
+    "codec_name": "aac",
+    "sample_rate": "48000",
+    "channels": 2
+  },
+  "loudness": {
+    "input_i": "-16.01",
+    "input_tp": "-4.01",
+    "input_lra": "3.40",
+    "input_thresh": "-26.74",
+    "output_i": "-16.41",
+    "output_tp": "-4.02",
+    "output_lra": "3.00",
+    "output_thresh": "-26.87",
+    "normalization_type": "dynamic",
+    "target_offset": "0.41"
+  },
+  "mp4_atoms": [
+    {
+      "type": "ftyp",
+      "offset": 0,
+      "size": 32
+    },
+    {
+      "type": "moov",
+      "offset": 32,
+      "size": 110230
+    },
+    {
+      "type": "free",
+      "offset": 110262,
+      "size": 8
+    },
+    {
+      "type": "mdat",
+      "offset": 110270,
+      "size": 18304942
+    }
+  ],
+  "checks": {
+    "resolution": true,
+    "video_codec": true,
+    "pixel_format": true,
+    "fps": true,
+    "video_frames": true,
+    "duration": true,
+    "audio_codec": true,
+    "audio_stereo_48k": true,
+    "complete_decode": true,
+    "loudness_within_0_6_lu": true,
+    "true_peak_below_minus_1": true,
+    "faststart_moov_before_mdat": true
+  },
+  "all_passed": true,
+  "scope": "Media probe, complete FFmpeg decode, atom layout and audio loudness only; not a legal clearance or view prediction.",
+  "delivery_file": "video-teslim/GUMA_yeni_kurgu_99s.mp4"
+}

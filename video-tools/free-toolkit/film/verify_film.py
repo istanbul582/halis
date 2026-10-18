@@ -37,7 +37,7 @@ checks={
     'audio_codec':audio['codec_name']=='aac',
     'audio_stereo_48k':audio['channels']==2 and audio['sample_rate']=='48000',
 }
-subprocess.run(['ffmpeg','-v','error','-i',str(film),'-map','0:v:0','-map','0:a:0','-f','null','-'],check=True)
+subprocess.run(['ffmpeg','-xerror','-v','error','-i',str(film),'-map','0:v:0','-map','0:a:0','-f','null','-'],check=True)
 checks['complete_decode']=True
 measure=subprocess.run(['ffmpeg','-hide_banner','-nostats','-i',str(film),'-vn','-af','loudnorm=I=-16:TP=-1.5:LRA=11:print_format=json','-f','null','-'],check=True,capture_output=True,text=True)
 match=re.findall(r'\{\s*"input_i"[\s\S]*?\}',measure.stderr)

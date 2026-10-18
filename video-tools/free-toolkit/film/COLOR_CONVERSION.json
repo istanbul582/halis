@@ -1,0 +1,18 @@
+{
+  "source": {
+    "pix_fmt": "yuvj420p",
+    "color_range": "pc",
+    "color_space": "bt470bg",
+    "chroma_location": "center"
+  },
+  "filter": "scale=in_range=full:out_range=limited:out_color_matrix=bt709,format=yuv420p",
+  "input_matrix_behavior": "FFmpeg scale in_color_matrix=auto (default), reads source bt470bg tag, so this is a matrix conversion and range conversion, not metadata relabeling.",
+  "target": {
+    "pix_fmt": "yuv420p",
+    "color_range": "tv",
+    "color_space": "bt709",
+    "color_transfer": "bt709",
+    "color_primaries": "bt709"
+  },
+  "encode": "libx264 preset=veryfast CRF18 threads4, AAC stream copy, +faststart"
+}

@@ -41,8 +41,10 @@ npm run stills
 npm run render
 ```
 
-`STILL_FRAMES=1110 node render.mjs --stills` 37. saniyedeki gerçek 3D kamerayı gösterir. `FRAME_RANGE=0,1109 node render.mjs` yalnızca ilk 37 saniyeyi üretir. Tam çıktı `out/GUMA_v5_full.mp4` konumundadır. FFmpeg ile son aşamada H.264 video yeniden kodlanmadan AAC stereo ses ve `+faststart` metaveri yerleşimi doğrulanır.
+`STILL_FRAMES=1110 node render.mjs --stills` 37. saniyedeki gerçek 3D kamerayı gösterir. `FRAME_RANGE=0,1109 node render.mjs` yalnızca ilk 37 saniyeyi üretir. Tam çıktı `out/GUMA_v5_full.mp4` konumundadır. Bu ortamda Remotion çıktısı yuv420p talebine rağmen full-range yuvj420p olarak işaretlendiği için `finalize-video.sh`, renk aralığını full→limited BT.709 olarak dönüştürür ve standart yuv420p H.264 üretir. Bu geçişte video yeniden kodlanır; AAC stereo ses aynen kopyalanır. `+faststart` metaveri yerleşimi korunur.
 
 Yeniden üretim için gereken yerel medya adları: `public/mixed_audio.wav`, `workshop.mp4`, `design.mp4`, `hero-ai-polish.png`, `original-material-study.png`, `production-camera.mp4` ve `public/fonts/`. İlk üç dosya kullanıcının sesini / ham stoklarını içerdiği için kaynak kodundan ayrı tutulur. Temsili 3D model `furniture.glb`, yapay zekâ görsellerinin `.provenance.json` kayıtları ve font lisansları da korunur.
 
 `python verify_film.py` tam MP4 akışını çözer; süre, kare sayısı, çözünürlük, video/ses biçimi, ses seviyesi ve hızlı web açılışı için MP4 atom sırasını ölçer. Atom sırası gerekirse ses/görüntüyü yeniden kodlamadan düzeltilir. Ölçümler `out/FINAL_VERIFICATION.json` içine yazılır. Bu teknik doğrulama, telif/izin ya da izlenme garantisi değildir.
+
+Renk uyumluluğu ve son kontrol: `npm run finalize` veya `bash finalize-video.sh out/GUMA_v5_full.mp4`. `npm run render` bunu otomatik çalıştırır. Helper önce gerçek giriş piksel/aralık/matris etiketlerini inceler. Bu çıktı yuvj420p / pc / bt470bg olduğu için FFmpeg scale filtresi giriş matrisini otomatik okuyarak BT.709 / tv / yuv420p’ye dönüştürür. Zaten standart sınırlı aralık olan çıktıda dönüşümü atlar; beklenmeyen etiketi tahmin etmek yerine durur. Aday çıktı teknik kontrolden geçmeden özgün dosyanın yerini almaz.
